@@ -1,0 +1,27 @@
+.trails {
+  margin-top: var(--sp-6);
+}
+
+.trail-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-1);
+  padding: var(--sp-3) var(--sp-4);
+  background: var(--c-surface-2);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  color: var(--c-text);
+  transition: transform var(--dur) var(--ease);
+}
+.trail-card:hover {
+  transform: translateY(-2px);
+}
+.trail-card__name {
+  font-weight: 700;
+  color: var(--c-amber);
+}
+.trail-card__reason {
+  font-size: var(--fs-300);
+  color: var(--c-text-dim);
+}

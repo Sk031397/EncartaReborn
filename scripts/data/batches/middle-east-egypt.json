@@ -1,0 +1,422 @@
+[
+  {
+    "id": "dubai",
+    "name": "Dubai",
+    "type": "city",
+    "coordinates": { "lat": 25.2047, "lon": 55.2708 },
+    "summary": {
+      "text": "Dubai is the most populous city of the United Arab Emirates, sitting on a creek along the southeastern coast of the Persian Gulf. It grew from a small pearling and fishing settlement into a regional trade hub, and today its economy rests on trade, tourism, aviation, finance and real estate.",
+      "sources": [
+        { "name": "Wikipedia — Dubai", "url": "https://en.wikipedia.org/wiki/Dubai", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Origins",
+        "value": "Founded in the early 18th century as a pearling and fishing settlement; it became a trade hub in the 20th century after declaring itself a free port in 1901.",
+        "sources": [
+          { "name": "Wikipedia — Dubai", "url": "https://en.wikipedia.org/wiki/Dubai", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Skyline",
+        "value": "Home to the Burj Khalifa, the world's tallest building, as part of one of the world's densest skylines.",
+        "sources": [
+          { "name": "Wikipedia — Dubai", "url": "https://en.wikipedia.org/wiki/Dubai", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Reclaimed coast",
+        "value": "Land-reclamation projects have added more than 300 kilometres (190 miles) of artificial coastline.",
+        "sources": [
+          { "name": "Wikipedia — Dubai", "url": "https://en.wikipedia.org/wiki/Dubai", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Air hub",
+        "value": "Dubai International Airport is the world's busiest airport for international passenger traffic, handling over 92 million passengers in 2024.",
+        "sources": [
+          { "name": "Wikipedia — Dubai", "url": "https://en.wikipedia.org/wiki/Dubai", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "singapore", "reason": "category" },
+      { "toId": "new-york-city", "reason": "topic" },
+      { "toId": "istanbul", "reason": "topic" },
+      { "toId": "persepolis", "reason": "geography" }
+    ],
+    "categories": ["city", "middle-east", "united-arab-emirates", "coastal", "skyline"]
+  },
+  {
+    "id": "jerusalem",
+    "name": "Jerusalem",
+    "type": "city",
+    "coordinates": { "lat": 31.7789, "lon": 35.2256 },
+    "summary": {
+      "text": "Jerusalem is a city on a plateau in the Judaean Mountains, between the Mediterranean Sea and the Dead Sea. It is one of the oldest cities in the world and is holy to Judaism, Christianity and Islam. Its political status remains disputed and is not widely settled internationally.",
+      "sources": [
+        { "name": "Wikipedia — Jerusalem", "url": "https://en.wikipedia.org/wiki/Jerusalem", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Holy city",
+        "value": "Considered a holy city by the three major Abrahamic religions: Judaism, Christianity and Islam.",
+        "sources": [
+          { "name": "Wikipedia — Jerusalem", "url": "https://en.wikipedia.org/wiki/Jerusalem", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Old City",
+        "value": "The walled Old City covers only about 0.9 square kilometres and has been divided since the 19th century into the Armenian, Christian, Jewish and Muslim quarters.",
+        "sources": [
+          { "name": "Wikipedia — Jerusalem", "url": "https://en.wikipedia.org/wiki/Jerusalem", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "City walls",
+        "value": "The present walls were rebuilt in 1538 under the Ottoman sultan Suleiman the Magnificent.",
+        "sources": [
+          { "name": "Wikipedia — Jerusalem", "url": "https://en.wikipedia.org/wiki/Jerusalem", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "The Old City became a World Heritage Site in 1981 and is also on the List of World Heritage in Danger.",
+        "sources": [
+          { "name": "Wikipedia — Jerusalem", "url": "https://en.wikipedia.org/wiki/Jerusalem", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dome%20of%20the%20Rock%20seen%20from%20the%20Mount%20of%20Olives%20(12395649153)%20(cropped).jpg",
+        "alt": "The golden Dome of the Rock in Jerusalem's Old City, seen across the valley from the Mount of Olives.",
+        "attribution": "askii, CC BY-SA 2.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Dome of the Rock seen from the Mount of Olives (12395649153) (cropped).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Dome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "dead-sea", "reason": "geography" },
+      { "toId": "petra", "reason": "geography" },
+      { "toId": "varanasi", "reason": "topic" },
+      { "toId": "rome", "reason": "category" }
+    ],
+    "categories": ["city", "middle-east", "ancient", "holy-city", "unesco-world-heritage"]
+  },
+  {
+    "id": "dead-sea",
+    "name": "Dead Sea",
+    "type": "natural",
+    "coordinates": { "lat": 31.5, "lon": 35.5 },
+    "summary": {
+      "text": "The Dead Sea is a landlocked salt lake in the Jordan Rift Valley, bordered by Jordan, the West Bank and Israel. Its shores are the lowest land-based elevation on Earth, and its extreme salt content makes floating effortless. The lake has long drawn visitors and is steadily shrinking.",
+      "sources": [
+        { "name": "Wikipedia — Dead Sea", "url": "https://en.wikipedia.org/wiki/Dead_Sea", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Elevation",
+        "value": "As of 2025 the surface is 439.78 metres (1,443 feet) below sea level, the lowest land-based elevation on Earth.",
+        "sources": [
+          { "name": "Wikipedia — Dead Sea", "url": "https://en.wikipedia.org/wiki/Dead_Sea", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Salinity",
+        "value": "With a salinity of about 34.2% (in 2011), it is roughly 9.6 times as salty as the ocean, and its density makes swimming similar to floating.",
+        "sources": [
+          { "name": "Wikipedia — Dead Sea", "url": "https://en.wikipedia.org/wiki/Dead_Sea", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Depth",
+        "value": "About 304 metres (997 feet) deep, making it the deepest hypersaline lake in the world.",
+        "sources": [
+          { "name": "Wikipedia — Dead Sea", "url": "https://en.wikipedia.org/wiki/Dead_Sea", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Receding shoreline",
+        "value": "Its surface area is about 605 square kilometres today, down from 1,050 square kilometres in 1930.",
+        "sources": [
+          { "name": "Wikipedia — Dead Sea", "url": "https://en.wikipedia.org/wiki/Dead_Sea", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dead%20Sea%20beach%2000.JPG",
+        "alt": "A beach on the Jordanian shore of the Dead Sea, with parasols standing near the calm water.",
+        "attribution": "لا روسا, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Dead Sea beach 00.JPG",
+            "url": "https://commons.wikimedia.org/wiki/File:Dead_Sea_beach_00.JPG",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "jerusalem", "reason": "geography" },
+      { "toId": "petra", "reason": "geography" },
+      { "toId": "salar-de-uyuni", "reason": "category" },
+      { "toId": "lake-baikal", "reason": "topic" }
+    ],
+    "categories": ["natural", "middle-east", "lake", "salt-lake", "record"]
+  },
+  {
+    "id": "persepolis",
+    "name": "Persepolis",
+    "type": "heritage",
+    "coordinates": { "lat": 29.935, "lon": 52.89 },
+    "summary": {
+      "text": "Persepolis was the ceremonial capital of the Achaemenid Empire, set on the plains of Marvdasht in Iran's Fars province and ringed by the southern Zagros Mountains. Its palaces stood on a raised platform and mark a high point of Achaemenid architecture. It is now a UNESCO World Heritage Site.",
+      "sources": [
+        { "name": "Wikipedia — Persepolis", "url": "https://en.wikipedia.org/wiki/Persepolis", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Era",
+        "value": "Ceremonial capital of the Achaemenid Empire (c. 550–330 BC); its earliest remains date back to 515 BC.",
+        "sources": [
+          { "name": "Wikipedia — Persepolis", "url": "https://en.wikipedia.org/wiki/Persepolis", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Fall",
+        "value": "Taken by the army of Alexander the Great in 330 BC, after which its wooden parts were destroyed by fire.",
+        "sources": [
+          { "name": "Wikipedia — Persepolis", "url": "https://en.wikipedia.org/wiki/Persepolis", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Scholarship",
+        "value": "Study of the site from the early 17th century led to the modern rediscovery of cuneiform writing, and its trilingual royal inscriptions helped begin the decipherment of cuneiform in the early 19th century.",
+        "sources": [
+          { "name": "Wikipedia — Persepolis", "url": "https://en.wikipedia.org/wiki/Persepolis", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Designated a UNESCO World Heritage Site in 1979.",
+        "sources": [
+          { "name": "Wikipedia — Persepolis", "url": "https://en.wikipedia.org/wiki/Persepolis", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/2018-09-21%20Iran,%20Persepolis,%20Tachara%20(from%20the%20southeast).jpg",
+        "alt": "The Tachara palace at Persepolis, a stone building with a stairway on the ancient terrace, seen from the southeast.",
+        "attribution": "Laurens R. Krol, CC BY 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — 2018-09-21 Iran, Persepolis, Tachara (from the southeast).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "petra", "reason": "category" },
+      { "toId": "acropolis-athens", "reason": "topic" },
+      { "toId": "karnak", "reason": "topic" },
+      { "toId": "dubai", "reason": "geography" }
+    ],
+    "categories": ["heritage", "middle-east", "iran", "ancient", "unesco-world-heritage"]
+  },
+  {
+    "id": "wadi-rum",
+    "name": "Wadi Rum",
+    "type": "natural",
+    "coordinates": { "lat": 29.5931, "lon": 35.42 },
+    "summary": {
+      "text": "Wadi Rum is a valley cut into sandstone and granite in southern Jordan, close to the Saudi border and about 60 km east of Aqaba. Also called the Valley of the Moon, it is the largest wadi in Jordan, and prehistoric peoples left rock carvings and ruins there.",
+      "sources": [
+        { "name": "Wikipedia — Wadi Rum", "url": "https://en.wikipedia.org/wiki/Wadi_Rum", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Size",
+        "value": "Covers about 720 square kilometres, making it the largest wadi (river valley) in Jordan.",
+        "sources": [
+          { "name": "Wikipedia — Wadi Rum", "url": "https://en.wikipedia.org/wiki/Wadi_Rum", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "Lies in southern Jordan, about 60 km (37 miles) east of the city of Aqaba.",
+        "sources": [
+          { "name": "Wikipedia — Wadi Rum", "url": "https://en.wikipedia.org/wiki/Wadi_Rum", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Rock art",
+        "value": "Khaz'ali Canyon holds petroglyphs of humans and antelopes dating to Thamudic times.",
+        "sources": [
+          { "name": "Wikipedia — Wadi Rum", "url": "https://en.wikipedia.org/wiki/Wadi_Rum", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "The Wadi Rum Protected Area has been a UNESCO World Heritage site since 2011.",
+        "sources": [
+          { "name": "Wikipedia — Wadi Rum", "url": "https://en.wikipedia.org/wiki/Wadi_Rum", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20in%20Wadi%20Rum,%20Jordan.jpg",
+        "alt": "A sandstone mountain rising near the entrance to Wadi Rum in Jordan.",
+        "attribution": "Daniel Case, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Mountain in Wadi Rum, Jordan.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "petra", "reason": "geography" },
+      { "toId": "sahara", "reason": "category" },
+      { "toId": "namib-desert", "reason": "category" },
+      { "toId": "uluru", "reason": "topic" }
+    ],
+    "categories": ["natural", "middle-east", "jordan", "desert", "unesco-world-heritage"]
+  },
+  {
+    "id": "karnak",
+    "name": "Karnak",
+    "type": "heritage",
+    "coordinates": { "lat": 25.7183, "lon": 32.6583 },
+    "summary": {
+      "text": "Karnak is a vast complex of temples, pylons, chapels and other buildings near Luxor in Egypt. Work began in the Middle Kingdom and continued into the Ptolemaic period, though most surviving structures come from the New Kingdom. It was the main place of worship of the Theban Triad, led by the god Amun.",
+      "sources": [
+        { "name": "Wikipedia — Karnak", "url": "https://en.wikipedia.org/wiki/Karnak", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Long construction",
+        "value": "Building began under Senusret I in the Middle Kingdom and continued into the Ptolemaic Kingdom (305–30 BCE).",
+        "sources": [
+          { "name": "Wikipedia — Karnak", "url": "https://en.wikipedia.org/wiki/Karnak", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Many builders",
+        "value": "Approximately thirty pharaohs contributed to the buildings, giving the site a size and diversity not seen elsewhere.",
+        "sources": [
+          { "name": "Wikipedia — Karnak", "url": "https://en.wikipedia.org/wiki/Karnak", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Great Hypostyle Hall",
+        "value": "The hall in the Precinct of Amun-Re covers 5,000 square metres and holds 134 massive columns arranged in 16 rows.",
+        "sources": [
+          { "name": "Wikipedia — Karnak", "url": "https://en.wikipedia.org/wiki/Karnak", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Added to the UNESCO World Heritage List in 1979 along with the rest of ancient Thebes.",
+        "sources": [
+          { "name": "Wikipedia — Karnak", "url": "https://en.wikipedia.org/wiki/Karnak", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "abu-simbel", "reason": "geography" },
+      { "toId": "great-pyramid-giza", "reason": "category" },
+      { "toId": "angkor-wat", "reason": "topic" },
+      { "toId": "persepolis", "reason": "topic" }
+    ],
+    "categories": ["heritage", "africa", "egypt", "ancient", "unesco-world-heritage"]
+  },
+  {
+    "id": "abu-simbel",
+    "name": "Abu Simbel",
+    "type": "heritage",
+    "coordinates": { "lat": 22.3369, "lon": 31.6256 },
+    "summary": {
+      "text": "Abu Simbel is a site of two massive rock-cut temples in Upper Egypt, on the western bank of Lake Nasser near the Sudanese border. Carved in the 13th century BC during the reign of Ramesses II, the temples are known for the colossal figures of the pharaoh on their facade. In 1968 the whole complex was moved to higher ground to save it from the rising lake.",
+      "sources": [
+        { "name": "Wikipedia — Abu Simbel", "url": "https://en.wikipedia.org/wiki/Abu_Simbel", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Two temples",
+        "value": "The Great Temple is dedicated to Ramesses II himself, and the Small Temple to his chief wife, Queen Nefertari.",
+        "sources": [
+          { "name": "Wikipedia — Abu Simbel", "url": "https://en.wikipedia.org/wiki/Abu_Simbel", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Relocation",
+        "value": "The complex was relocated in its entirety in 1968 to higher ground to avoid being submerged by Lake Nasser, as part of the International Campaign to Save the Monuments of Nubia.",
+        "sources": [
+          { "name": "Wikipedia — Abu Simbel", "url": "https://en.wikipedia.org/wiki/Abu_Simbel", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Rediscovery",
+        "value": "Covered over time by a sand dune, the temples remained unknown to Europeans until March 1813, when the Swiss researcher Johann Ludwig Burckhardt found the small temple and the top frieze of the main temple.",
+        "sources": [
+          { "name": "Wikipedia — Abu Simbel", "url": "https://en.wikipedia.org/wiki/Abu_Simbel", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "About 230 km (140 miles) southwest of Aswan, on the western bank of Lake Nasser.",
+        "sources": [
+          { "name": "Wikipedia — Abu Simbel", "url": "https://en.wikipedia.org/wiki/Abu_Simbel", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ramsis,%20Aswan%20Governorate,%20Egypt%20-%20panoramio.jpg",
+        "alt": "Rock-cut temple facade at Abu Simbel in Aswan Governorate, southern Egypt.",
+        "attribution": "youssef_alam, CC BY 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Ramsis, Aswan Governorate, Egypt - panoramio.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "karnak", "reason": "geography" },
+      { "toId": "great-pyramid-giza", "reason": "category" },
+      { "toId": "petra", "reason": "topic" },
+      { "toId": "lalibela", "reason": "topic" }
+    ],
+    "categories": ["heritage", "africa", "egypt", "ancient", "unesco-world-heritage"]
+  }
+]

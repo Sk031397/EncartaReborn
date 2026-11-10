@@ -1,0 +1,387 @@
+[
+  {
+    "id": "lalibela",
+    "name": "Lalibela",
+    "type": "heritage",
+    "coordinates": { "lat": 12.0317, "lon": 39.0411 },
+    "summary": {
+      "text": "Lalibela is a town in Ethiopia's Amhara Region, known for its rock-cut monolithic churches. The wider town is regarded as an important site for the history of Ethiopian civilization, and for some Christians it is among the country's holiest cities and a place of pilgrimage.",
+      "sources": [
+        { "name": "Wikipedia — Lalibela", "url": "https://en.wikipedia.org/wiki/Lalibela", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Location",
+        "value": "Lies in the Lasta district and North Wollo Zone of the Amhara Region, Ethiopia.",
+        "sources": [
+          { "name": "Wikipedia — Lalibela", "url": "https://en.wikipedia.org/wiki/Lalibela", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Rock-cut churches",
+        "value": "Famous for monolithic churches cut from the rock, designed in contrast to the earlier monolithic churches in Ethiopia.",
+        "sources": [
+          { "name": "Wikipedia — Lalibela", "url": "https://en.wikipedia.org/wiki/Lalibela", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Pilgrimage",
+        "value": "To some Christians it is one of Ethiopia's holiest cities and a center of pilgrimage.",
+        "sources": [
+          { "name": "Wikipedia — Lalibela", "url": "https://en.wikipedia.org/wiki/Lalibela", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lalibela,_san_giorgio,_esterno_24.jpg",
+        "alt": "Exterior view of the Church of Saint George at Lalibela, Ethiopia.",
+        "attribution": "Sailko, CC BY 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Lalibela, san giorgio, esterno 24.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_esterno_24.jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "petra", "reason": "topic" },
+      { "toId": "abu-simbel", "reason": "category" },
+      { "toId": "mount-kilimanjaro", "reason": "geography" },
+      { "toId": "karnak", "reason": "category" }
+    ],
+    "categories": ["africa", "heritage", "religious", "ancient"]
+  },
+  {
+    "id": "okavango-delta",
+    "name": "Okavango Delta",
+    "type": "natural",
+    "coordinates": { "lat": -19.4, "lon": 22.9 },
+    "summary": {
+      "text": "The Okavango Delta is a large inland delta in Botswana. It forms where the Okavango River reaches a tectonic trough in the endorheic basin of the Kalahari Desert.",
+      "sources": [
+        { "name": "Wikipedia — Okavango Delta", "url": "https://en.wikipedia.org/wiki/Okavango_Delta", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Location",
+        "value": "Lies in Botswana, in the central part of the Kalahari Desert's endorheic basin.",
+        "sources": [
+          { "name": "Wikipedia — Okavango Delta", "url": "https://en.wikipedia.org/wiki/Okavango_Delta", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Elevation",
+        "value": "Sits at an elevation of about 930 to 1,000 metres (3,050 to 3,280 feet).",
+        "sources": [
+          { "name": "Wikipedia — Okavango Delta", "url": "https://en.wikipedia.org/wiki/Okavango_Delta", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Formation",
+        "value": "Created where the Okavango River meets a tectonic trough, rather than flowing on to the sea.",
+        "sources": [
+          { "name": "Wikipedia — Okavango Delta", "url": "https://en.wikipedia.org/wiki/Okavango_Delta", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Okavango_Delta,_Botswana1.jpg",
+        "alt": "Landscape photograph of the Okavango Delta in Botswana.",
+        "attribution": "Joachim Huber, CC BY-SA 2.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Okavango Delta, Botswana1.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Okavango_Delta,_Botswana1.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "victoria-falls", "reason": "geography" },
+      { "toId": "namib-desert", "reason": "geography" },
+      { "toId": "serengeti", "reason": "category" },
+      { "toId": "amazon-rainforest", "reason": "topic" }
+    ],
+    "categories": ["africa", "natural", "wetland", "river"]
+  },
+  {
+    "id": "namib-desert",
+    "name": "Namib Desert",
+    "type": "natural",
+    "coordinates": { "lat": -24.7519, "lon": 15.2764 },
+    "summary": {
+      "text": "The Namib is a coastal desert running along the Atlantic coast of southern Africa, through Angola, Namibia and northwest South Africa. It is extremely dry and may be the oldest desert in the world.",
+      "sources": [
+        { "name": "Wikipedia — Namib", "url": "https://en.wikipedia.org/wiki/Namib", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Length",
+        "value": "By the broadest definition it stretches for more than 2,000 kilometres (1,200 miles) along the Atlantic coast.",
+        "sources": [
+          { "name": "Wikipedia — Namib", "url": "https://en.wikipedia.org/wiki/Namib", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Rainfall",
+        "value": "Annual precipitation ranges from about 2 millimetres in the driest regions to 200 millimetres at the escarpment.",
+        "sources": [
+          { "name": "Wikipedia — Namib", "url": "https://en.wikipedia.org/wiki/Namib", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Age",
+        "value": "Arid or semi-arid conditions have lasted roughly 55 to 80 million years, so it may be the world's oldest desert.",
+        "sources": [
+          { "name": "Wikipedia — Namib", "url": "https://en.wikipedia.org/wiki/Namib", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Namib_desert_MODIS.jpg",
+        "alt": "Satellite image of the Namib Desert along the southwestern coast of Africa, taken by NASA's MODIS instrument.",
+        "attribution": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA GSFC, public domain, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Namib desert MODIS.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Namib_desert_MODIS.jpg",
+            "license": "public-domain"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "sahara", "reason": "category" },
+      { "toId": "okavango-delta", "reason": "geography" },
+      { "toId": "table-mountain", "reason": "geography" },
+      { "toId": "uluru", "reason": "topic" }
+    ],
+    "categories": ["africa", "natural", "desert", "coastal"]
+  },
+  {
+    "id": "ngorongoro-crater",
+    "name": "Ngorongoro Crater",
+    "type": "natural",
+    "coordinates": { "lat": -3.21, "lon": 35.46 },
+    "summary": {
+      "text": "Ngorongoro Crater is a large volcanic caldera that gives its name to the Ngorongoro Conservation Area in northeastern Tanzania. The protected area is a UNESCO World Heritage Site and borders Serengeti National Park.",
+      "sources": [
+        { "name": "Wikipedia — Ngorongoro Conservation Area", "url": "https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Location",
+        "value": "Lies about 180 km (110 mi) west of Arusha City, in the Crater Highlands of northeastern Tanzania.",
+        "sources": [
+          { "name": "Wikipedia — Ngorongoro Conservation Area", "url": "https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Neighbouring parks",
+        "value": "The western portion of the conservation area abuts Serengeti National Park.",
+        "sources": [
+          { "name": "Wikipedia — Ngorongoro Conservation Area", "url": "https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Olduvai Gorge",
+        "value": "The conservation area contains Olduvai Gorge, one of the most important paleoanthropological sites in the world.",
+        "sources": [
+          { "name": "Wikipedia — Ngorongoro Conservation Area", "url": "https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ngorongoro-1001-2.jpg",
+        "alt": "View of the Ngorongoro Crater landscape in Tanzania.",
+        "attribution": "Grahampurse, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Ngorongoro-1001-2.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Ngorongoro-1001-2.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "serengeti", "reason": "geography" },
+      { "toId": "mount-kilimanjaro", "reason": "geography" },
+      { "toId": "zanzibar-stone-town", "reason": "geography" },
+      { "toId": "yellowstone", "reason": "topic" }
+    ],
+    "categories": ["africa", "natural", "volcano", "caldera", "unesco-world-heritage"]
+  },
+  {
+    "id": "zanzibar-stone-town",
+    "name": "Stone Town, Zanzibar",
+    "type": "heritage",
+    "coordinates": { "lat": -6.1624, "lon": 39.1913 },
+    "summary": {
+      "text": "Stone Town, also called Mji Mkongwe, is the old part of Zanzibar City in Tanzania. It was the capital of the Sultanate of Zanzibar and a centre of the 19th-century spice trade.",
+      "sources": [
+        { "name": "Wikipedia — Stone Town", "url": "https://en.wikipedia.org/wiki/Stone_Town", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Location",
+        "value": "Sits on the western coast of Unguja, the main island of the Zanzibar Archipelago.",
+        "sources": [
+          { "name": "Wikipedia — Stone Town", "url": "https://en.wikipedia.org/wiki/Stone_Town", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Local name",
+        "value": "Known as Mji Mkongwe; the newer part of the city is called Ng'ambo, Swahili for 'the other side'.",
+        "sources": [
+          { "name": "Wikipedia — Stone Town", "url": "https://en.wikipedia.org/wiki/Stone_Town", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Trade history",
+        "value": "In the 19th century it was a flourishing centre of both the spice trade and the Indian Ocean slave trade.",
+        "sources": [
+          { "name": "Wikipedia — Stone Town", "url": "https://en.wikipedia.org/wiki/Stone_Town", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zanzibar_sultan_palace.jpg",
+        "alt": "The Sultan's Palace in Stone Town, Zanzibar.",
+        "attribution": "Mbz1 (assumed author), CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Zanzibar sultan palace.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Zanzibar_sultan_palace.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "ngorongoro-crater", "reason": "geography" },
+      { "toId": "madagascar", "reason": "geography" },
+      { "toId": "marrakesh", "reason": "topic" },
+      { "toId": "istanbul", "reason": "topic" }
+    ],
+    "categories": ["africa", "heritage", "island", "coastal", "trade"]
+  },
+  {
+    "id": "timbuktu",
+    "name": "Timbuktu",
+    "type": "city",
+    "coordinates": { "lat": 16.7758, "lon": -3.0094 },
+    "summary": {
+      "text": "Timbuktu is a city in Mali, about 20 kilometres north of the Niger River. It is the capital of the Tombouctou Region, one of Mali's 19 administrative regions.",
+      "sources": [
+        { "name": "Wikipedia — Timbuktu", "url": "https://en.wikipedia.org/wiki/Timbuktu", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Location",
+        "value": "Situated 20 kilometres north of the Niger River in Mali.",
+        "sources": [
+          { "name": "Wikipedia — Timbuktu", "url": "https://en.wikipedia.org/wiki/Timbuktu", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Regional capital",
+        "value": "Capital of the Tombouctou Region, one of the 19 administrative regions of Mali.",
+        "sources": [
+          { "name": "Wikipedia — Timbuktu", "url": "https://en.wikipedia.org/wiki/Timbuktu", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "Around 84,000 people in the 2023 census.",
+        "sources": [
+          { "name": "Wikipedia — Timbuktu", "url": "https://en.wikipedia.org/wiki/Timbuktu", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Donkeys,_Timbuktu.jpg",
+        "alt": "Donkeys photographed in Timbuktu, Mali.",
+        "attribution": "Emilio Labrador (Flickr), CC BY 2.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Donkeys, Timbuktu.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Donkeys,_Timbuktu.jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "sahara", "reason": "geography" },
+      { "toId": "marrakesh", "reason": "topic" },
+      { "toId": "lalibela", "reason": "category" },
+      { "toId": "varanasi", "reason": "topic" }
+    ],
+    "categories": ["africa", "city", "sahel", "trade"]
+  },
+  {
+    "id": "madagascar",
+    "name": "Madagascar",
+    "type": "country",
+    "coordinates": { "lat": -20, "lon": 47 },
+    "summary": {
+      "text": "Madagascar is an island country in the Indian Ocean, lying off the southeastern coast of Africa. It includes the main island and many smaller islands around it, and its capital and largest city is Antananarivo.",
+      "sources": [
+        { "name": "Wikipedia — Madagascar", "url": "https://en.wikipedia.org/wiki/Madagascar", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Island rank",
+        "value": "The world's fourth-largest island.",
+        "sources": [
+          { "name": "Wikipedia — Madagascar", "url": "https://en.wikipedia.org/wiki/Madagascar", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Country rank",
+        "value": "The second-largest island country and the 46th-largest country overall.",
+        "sources": [
+          { "name": "Wikipedia — Madagascar", "url": "https://en.wikipedia.org/wiki/Madagascar", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Capital",
+        "value": "Antananarivo is both the capital and the largest city.",
+        "sources": [
+          { "name": "Wikipedia — Madagascar", "url": "https://en.wikipedia.org/wiki/Madagascar", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "zanzibar-stone-town", "reason": "geography" },
+      { "toId": "galapagos-islands", "reason": "topic" },
+      { "toId": "bali", "reason": "category" },
+      { "toId": "mount-kilimanjaro", "reason": "geography" }
+    ],
+    "categories": ["africa", "country", "island", "indian-ocean"]
+  }
+]

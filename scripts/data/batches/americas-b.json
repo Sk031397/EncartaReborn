@@ -1,0 +1,295 @@
+[
+  {
+    "id": "mexico-city",
+    "name": "Mexico City",
+    "type": "city",
+    "coordinates": { "lat": 19.4333, "lon": -99.1333 },
+    "summary": {
+      "text": "Mexico City is the capital of Mexico and the most populous city in North America. It lies in the Valley of Mexico on the high central plateau, and grew from the Mexica city of Tenochtitlan, which was built on islands in Lake Texcoco.",
+      "sources": [
+        { "name": "Wikipedia — Mexico City", "url": "https://en.wikipedia.org/wiki/Mexico_City", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Altitude",
+        "value": "Sits at about 2,240 metres (7,350 feet) above sea level in the Valley of Mexico.",
+        "sources": [
+          { "name": "Wikipedia — Mexico City", "url": "https://en.wikipedia.org/wiki/Mexico_City", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "The 2020 census counted 9,209,944 people in the city proper and 21,804,515 in Greater Mexico City.",
+        "sources": [
+          { "name": "Wikipedia — Mexico City", "url": "https://en.wikipedia.org/wiki/Mexico_City", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Origins",
+        "value": "Began as Tenochtitlan, a Mexica city built around 1325 on islands in Lake Texcoco.",
+        "sources": [
+          { "name": "Wikipedia — Mexico City", "url": "https://en.wikipedia.org/wiki/Mexico_City", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Administration",
+        "value": "Divided into 16 boroughs, known as alcaldías.",
+        "sources": [
+          { "name": "Wikipedia — Mexico City", "url": "https://en.wikipedia.org/wiki/Mexico_City", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "teotihuacan", "reason": "geography" },
+      { "toId": "chichen-itza", "reason": "topic" },
+      { "toId": "new-york-city", "reason": "category" },
+      { "toId": "machu-picchu", "reason": "topic" }
+    ],
+    "categories": ["city", "americas", "mexico", "capital"]
+  },
+  {
+    "id": "teotihuacan",
+    "name": "Teotihuacan",
+    "type": "heritage",
+    "coordinates": { "lat": 19.6925, "lon": -98.8439 },
+    "summary": {
+      "text": "Teotihuacan is an ancient Mesoamerican city in the Valley of Mexico, about 40 kilometres northeast of modern Mexico City. It is known for the Pyramid of the Sun, the Pyramid of the Moon and the Avenue of the Dead, and it predates the Aztec Empire by many centuries.",
+      "sources": [
+        { "name": "Wikipedia — Teotihuacan", "url": "https://en.wikipedia.org/wiki/Teotihuacan", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Peak",
+        "value": "At its height, in the first half of the first millennium CE, it was the largest city in the Americas, with a population likely around 100,000.",
+        "sources": [
+          { "name": "Wikipedia — Teotihuacan", "url": "https://en.wikipedia.org/wiki/Teotihuacan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Founding",
+        "value": "The city is thought to have been established around 100 BCE, with major monuments under construction until about 250 CE.",
+        "sources": [
+          { "name": "Wikipedia — Teotihuacan", "url": "https://en.wikipedia.org/wiki/Teotihuacan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Decline",
+        "value": "Its major monuments were sacked and systematically burned around 550 CE.",
+        "sources": [
+          { "name": "Wikipedia — Teotihuacan", "url": "https://en.wikipedia.org/wiki/Teotihuacan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "The site covers 83 square kilometres and was designated a UNESCO World Heritage Site in 1987.",
+        "sources": [
+          { "name": "Wikipedia — Teotihuacan", "url": "https://en.wikipedia.org/wiki/Teotihuacan", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "mexico-city", "reason": "geography" },
+      { "toId": "chichen-itza", "reason": "category" },
+      { "toId": "machu-picchu", "reason": "category" },
+      { "toId": "great-pyramid-giza", "reason": "topic" }
+    ],
+    "categories": ["heritage", "americas", "mexico", "ancient", "unesco-world-heritage"]
+  },
+  {
+    "id": "iguazu-falls",
+    "name": "Iguazu Falls",
+    "type": "natural",
+    "coordinates": { "lat": -25.6867, "lon": -54.4447 },
+    "summary": {
+      "text": "The Iguazu Falls are a system of waterfalls on the Iguazu River, on the border between the Argentine province of Misiones and the Brazilian state of Paraná. Together they form the largest waterfall system in the world, with most of the falls on the Argentine side.",
+      "sources": [
+        { "name": "Wikipedia — Iguazu Falls", "url": "https://en.wikipedia.org/wiki/Iguazu_Falls", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Location",
+        "value": "On the Iguazu River, where it forms the border between Argentina and Brazil.",
+        "sources": [
+          { "name": "Wikipedia — Iguazu Falls", "url": "https://en.wikipedia.org/wiki/Iguazu_Falls", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Name",
+        "value": "Iguazú comes from Guarani or Tupi words meaning 'water' and 'big'.",
+        "sources": [
+          { "name": "Wikipedia — Iguazu Falls", "url": "https://en.wikipedia.org/wiki/Iguazu_Falls", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "European record",
+        "value": "The first European to record the falls was the Spanish conquistador Álvar Núñez Cabeza de Vaca, in 1541.",
+        "sources": [
+          { "name": "Wikipedia — Iguazu Falls", "url": "https://en.wikipedia.org/wiki/Iguazu_Falls", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Protection",
+        "value": "Protected within national parks in Argentina and Brazil, inscribed on the UNESCO World Heritage List in 1984 and 1986 respectively.",
+        "sources": [
+          { "name": "Wikipedia — Iguazu Falls", "url": "https://en.wikipedia.org/wiki/Iguazu_Falls", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "christ-the-redeemer", "reason": "geography" },
+      { "toId": "amazon-rainforest", "reason": "geography" },
+      { "toId": "victoria-falls", "reason": "category" },
+      { "toId": "niagara-falls", "reason": "category" }
+    ],
+    "categories": ["natural", "americas", "waterfall", "unesco-world-heritage"]
+  },
+  {
+    "id": "torres-del-paine",
+    "name": "Torres del Paine",
+    "type": "natural",
+    "coordinates": { "lat": -51.0, "lon": -73.0 },
+    "summary": {
+      "text": "Torres del Paine National Park protects mountains, glaciers, lakes and rivers in southern Chilean Patagonia. Its centrepiece is the Cordillera del Paine, a mountain group that rises from the transition between subpolar forest and Patagonian steppe.",
+      "sources": [
+        { "name": "Wikipedia — Torres del Paine National Park", "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Established",
+        "value": "Created as a national park in 1959.",
+        "sources": [
+          { "name": "Wikipedia — Torres del Paine National Park", "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Area",
+        "value": "Measured approximately 181,414 hectares (700 square miles) in 2013.",
+        "sources": [
+          { "name": "Wikipedia — Torres del Paine National Park", "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "The Towers",
+        "value": "Three granite peaks (Torre d'Agostini, Torre Central and Torre Monzino) rise about 2,500 metres (8,200 feet) above sea level.",
+        "sources": [
+          { "name": "Wikipedia — Torres del Paine National Park", "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Name",
+        "value": "Paine means 'blue' in the Tehuelche (Aonikenk) language.",
+        "sources": [
+          { "name": "Wikipedia — Torres del Paine National Park", "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "salar-de-uyuni", "reason": "geography" },
+      { "toId": "matterhorn", "reason": "category" },
+      { "toId": "antarctica", "reason": "topic" },
+      { "toId": "aoraki-mount-cook", "reason": "category" }
+    ],
+    "categories": ["natural", "americas", "chile", "mountain", "glacier"]
+  },
+  {
+    "id": "easter-island",
+    "name": "Easter Island",
+    "type": "heritage",
+    "coordinates": { "lat": -27.12, "lon": -109.35 },
+    "summary": {
+      "text": "Easter Island is a special territory of Chile in the southeastern Pacific Ocean, at the southeastern tip of the Polynesian Triangle. It is best known for its nearly 1,000 surviving moai, monumental statues carved by the early Rapa Nui people.",
+      "sources": [
+        { "name": "Wikipedia — Easter Island", "url": "https://en.wikipedia.org/wiki/Easter_Island", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Remoteness",
+        "value": "One of the world's most remote inhabited islands; the nearest continental point, in central Chile, is 3,512 kilometres away.",
+        "sources": [
+          { "name": "Wikipedia — Easter Island", "url": "https://en.wikipedia.org/wiki/Easter_Island", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Settlement",
+        "value": "Experts differ on when Polynesians arrived: evidence points to around 800 CE, while a 2007 study suggested closer to 1200.",
+        "sources": [
+          { "name": "Wikipedia — Easter Island", "url": "https://en.wikipedia.org/wiki/Easter_Island", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Chilean annexation",
+        "value": "Chile annexed the island in 1888.",
+        "sources": [
+          { "name": "Wikipedia — Easter Island", "url": "https://en.wikipedia.org/wiki/Easter_Island", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Named a UNESCO World Heritage Site in 1995, with much of the island protected within Rapa Nui National Park.",
+        "sources": [
+          { "name": "Wikipedia — Easter Island", "url": "https://en.wikipedia.org/wiki/Easter_Island", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "galapagos-islands", "reason": "category" },
+      { "toId": "bora-bora", "reason": "geography" },
+      { "toId": "stonehenge", "reason": "topic" },
+      { "toId": "torres-del-paine", "reason": "geography" }
+    ],
+    "categories": ["heritage", "americas", "chile", "island", "ancient", "unesco-world-heritage"]
+  },
+  {
+    "id": "salar-de-uyuni",
+    "name": "Salar de Uyuni",
+    "type": "natural",
+    "coordinates": { "lat": -20.1338, "lon": -67.4891 },
+    "summary": {
+      "text": "Salar de Uyuni is the largest salt flat in the world, lying in southwestern Bolivia near the crest of the Andes. It covers roughly 10,500 square kilometres of high-altitude plain.",
+      "sources": [
+        { "name": "Wikipedia — Salar de Uyuni", "url": "https://en.wikipedia.org/wiki/Salar_de_Uyuni", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Area",
+        "value": "Approximately 10,582 square kilometres (4,086 square miles).",
+        "sources": [
+          { "name": "Wikipedia — Salar de Uyuni", "url": "https://en.wikipedia.org/wiki/Salar_de_Uyuni", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Elevation",
+        "value": "Sits at 3,656 metres (11,995 feet) above sea level.",
+        "sources": [
+          { "name": "Wikipedia — Salar de Uyuni", "url": "https://en.wikipedia.org/wiki/Salar_de_Uyuni", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "In Daniel Campos Province, Potosí Department, southwestern Bolivia.",
+        "sources": [
+          { "name": "Wikipedia — Salar de Uyuni", "url": "https://en.wikipedia.org/wiki/Salar_de_Uyuni", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "torres-del-paine", "reason": "geography" },
+      { "toId": "machu-picchu", "reason": "geography" },
+      { "toId": "dead-sea", "reason": "topic" },
+      { "toId": "namib-desert", "reason": "category" }
+    ],
+    "categories": ["natural", "americas", "bolivia", "salt-flat", "andes"]
+  }
+]

@@ -1,0 +1,411 @@
+[
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "type": "city",
+    "coordinates": { "lat": 35.68972222, "lon": 139.69222222 },
+    "summary": {
+      "text": "Tokyo is the capital of Japan and the country's most populous city. Its metropolitan area, which reaches into several neighbouring prefectures, is one of the largest urban regions on Earth.",
+      "sources": [
+        { "name": "Wikipedia — Tokyo", "url": "https://en.wikipedia.org/wiki/Tokyo", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Status",
+        "value": "Officially the Tokyo Metropolis, it is the capital and most populous city of Japan.",
+        "sources": [
+          { "name": "Wikipedia — Tokyo", "url": "https://en.wikipedia.org/wiki/Tokyo", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "City population",
+        "value": "The city proper had a population of over 14 million as of 2023.",
+        "sources": [
+          { "name": "Wikipedia — Tokyo", "url": "https://en.wikipedia.org/wiki/Tokyo", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Greater Tokyo Area",
+        "value": "Including parts of six neighbouring prefectures, it is the third-most populous metropolitan area in the world, with 33 million residents as of 2025.",
+        "sources": [
+          { "name": "Wikipedia — Tokyo", "url": "https://en.wikipedia.org/wiki/Tokyo", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyscrapers%20of%20Shinjuku%202009%20January.jpg",
+        "alt": "The skyscrapers of Shinjuku in Tokyo seen from the Bunkyo Civic Center, with Mount Fuji on the horizon.",
+        "attribution": "Morio, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Skyscrapers of Shinjuku 2009 January.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "japan", "reason": "geography" },
+      { "toId": "kyoto", "reason": "geography" },
+      { "toId": "mount-fuji", "reason": "geography" },
+      { "toId": "seoul", "reason": "category" },
+      { "toId": "new-york-city", "reason": "category" }
+    ],
+    "categories": ["asia", "capital", "metropolis"]
+  },
+  {
+    "id": "seoul",
+    "name": "Seoul",
+    "type": "city",
+    "coordinates": { "lat": 37.56, "lon": 126.99 },
+    "summary": {
+      "text": "Seoul is the capital and largest city of South Korea, and the largest city in all of Korea. Together with Gyeonggi Province and Incheon it forms a metropolitan area that holds more than half of the country's people.",
+      "sources": [
+        { "name": "Wikipedia — Seoul", "url": "https://en.wikipedia.org/wiki/Seoul", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Status",
+        "value": "Officially Seoul Special Metropolitan City, it is the capital and largest city of South Korea.",
+        "sources": [
+          { "name": "Wikipedia — Seoul", "url": "https://en.wikipedia.org/wiki/Seoul", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "About 9.6 million residents as of 2024. The figure peaked at over 10 million and has gradually declined since 2014.",
+        "sources": [
+          { "name": "Wikipedia — Seoul", "url": "https://en.wikipedia.org/wiki/Seoul", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Metropolitan area",
+        "value": "The Seoul Metropolitan Area, covering Seoul, Gyeonggi Province and Incheon, was the world's sixth largest metropolitan economy in 2022 and hosts more than half of South Korea's population.",
+        "sources": [
+          { "name": "Wikipedia — Seoul", "url": "https://en.wikipedia.org/wiki/Seoul", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98%20%EB%82%AE.jpg",
+        "alt": "Junghwajeon, a traditional Korean palace hall at Deoksugung in central Seoul, photographed in daylight.",
+        "attribution": "Eunmi Park, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — 중화전의 낮.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "tokyo", "reason": "geography" },
+      { "toId": "japan", "reason": "geography" },
+      { "toId": "forbidden-city", "reason": "topic" },
+      { "toId": "singapore", "reason": "category" },
+      { "toId": "paris", "reason": "category" }
+    ],
+    "categories": ["asia", "capital", "metropolis"]
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "type": "country",
+    "coordinates": { "lat": 1.28333333, "lon": 103.83333333 },
+    "summary": {
+      "text": "Singapore is an island country and city-state in Southeast Asia, sitting just off the southern tip of the Malay Peninsula. It is made up of one main island and dozens of smaller islets.",
+      "sources": [
+        { "name": "Wikipedia — Singapore", "url": "https://en.wikipedia.org/wiki/Singapore", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Official name",
+        "value": "The Republic of Singapore, an island country and city-state in Southeast Asia.",
+        "sources": [
+          { "name": "Wikipedia — Singapore", "url": "https://en.wikipedia.org/wiki/Singapore", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Territory",
+        "value": "A main island, over 60 satellite islands and islets, and one outlying islet.",
+        "sources": [
+          { "name": "Wikipedia — Singapore", "url": "https://en.wikipedia.org/wiki/Singapore", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "About one degree of latitude north of the equator, bordering the Strait of Malacca to the west, the Singapore Strait to the south, and the Straits of Johor to the north.",
+        "sources": [
+          { "name": "Wikipedia — Singapore", "url": "https://en.wikipedia.org/wiki/Singapore", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "bangkok", "reason": "geography" },
+      { "toId": "bali", "reason": "geography" },
+      { "toId": "tokyo", "reason": "category" },
+      { "toId": "dubai", "reason": "category" }
+    ],
+    "categories": ["asia", "island", "city-state"]
+  },
+  {
+    "id": "mount-everest",
+    "name": "Mount Everest",
+    "type": "natural",
+    "coordinates": { "lat": 27.98833333, "lon": 86.92527778 },
+    "summary": {
+      "text": "Mount Everest is the highest mountain on Earth above sea level. It rises in the Mahalangur Himal of the Himalayas, and its summit lies on the border between China and Nepal.",
+      "sources": [
+        { "name": "Wikipedia — Mount Everest", "url": "https://en.wikipedia.org/wiki/Mount_Everest", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Rank",
+        "value": "The highest mountain on Earth above sea level.",
+        "sources": [
+          { "name": "Wikipedia — Mount Everest", "url": "https://en.wikipedia.org/wiki/Mount_Everest", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Height",
+        "value": "8,848.86 metres, as measured in 2020 by a joint survey of Nepalese and Chinese authorities.",
+        "sources": [
+          { "name": "Wikipedia — Mount Everest", "url": "https://en.wikipedia.org/wiki/Mount_Everest", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Range",
+        "value": "Part of the Mahalangur Himal sub-range of the Himalayas.",
+        "sources": [
+          { "name": "Wikipedia — Mount Everest", "url": "https://en.wikipedia.org/wiki/Mount_Everest", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Border",
+        "value": "Its summit marks part of the China–Nepal border.",
+        "sources": [
+          { "name": "Wikipedia — Mount Everest", "url": "https://en.wikipedia.org/wiki/Mount_Everest", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt.%20Everest%20from%20Gokyo%20Ri%20November%205%2C%202012.jpg",
+        "alt": "Mount Everest and neighbouring peaks of the Himalayas viewed from Gokyo Ri in the Khumbu region of Nepal.",
+        "attribution": "Rdevany, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Mt. Everest from Gokyo Ri November 5, 2012.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "kathmandu-valley", "reason": "geography" },
+      { "toId": "potala-palace", "reason": "geography" },
+      { "toId": "mount-fuji", "reason": "category" },
+      { "toId": "matterhorn", "reason": "category" },
+      { "toId": "mount-kilimanjaro", "reason": "category" }
+    ],
+    "categories": ["asia", "mountain", "himalayas"]
+  },
+  {
+    "id": "ha-long-bay",
+    "name": "Hạ Long Bay",
+    "type": "natural",
+    "coordinates": { "lat": 20.9, "lon": 107.2 },
+    "summary": {
+      "text": "Hạ Long Bay is a bay in northeastern Vietnam, administered by the city of Quảng Ninh. It is known for thousands of limestone karsts and islets, and is a UNESCO World Heritage Site.",
+      "sources": [
+        { "name": "Wikipedia — Hạ Long Bay", "url": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Location",
+        "value": "Northeastern Vietnam, administered by the city of Quảng Ninh.",
+        "sources": [
+          { "name": "Wikipedia — Hạ Long Bay", "url": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Name",
+        "value": "Hạ Long means \"descending dragon\".",
+        "sources": [
+          { "name": "Wikipedia — Hạ Long Bay", "url": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Landscape",
+        "value": "Thousands of limestone karsts and islets of various shapes and sizes.",
+        "sources": [
+          { "name": "Wikipedia — Hạ Long Bay", "url": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Wider area",
+        "value": "It is part of a larger area that includes Bai Tu Long Bay to the northeast and Cát Bà Island to the southwest, which share similar geological and climatic characteristics.",
+        "sources": [
+          { "name": "Wikipedia — Hạ Long Bay", "url": "https://en.wikipedia.org/wiki/H%E1%BA%A1_Long_Bay", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ha%20Long%20Bay%20in%202019.jpg",
+        "alt": "Panoramic view of Ha Long Bay from Titov Island, with limestone islets rising from the water and boats below.",
+        "attribution": "Taewangkorea, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Ha Long Bay in 2019.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "angkor-wat", "reason": "geography" },
+      { "toId": "bangkok", "reason": "geography" },
+      { "toId": "wulingyuan", "reason": "topic" },
+      { "toId": "milford-sound", "reason": "category" }
+    ],
+    "categories": ["asia", "unesco-world-heritage", "coastal", "karst"]
+  },
+  {
+    "id": "borobudur",
+    "name": "Borobudur",
+    "type": "heritage",
+    "coordinates": { "lat": -7.608, "lon": 110.204 },
+    "summary": {
+      "text": "Borobudur is a Mahayana Buddhist temple from the 9th century in Central Java, Indonesia. It stands in Magelang Regency, near the town of Muntilan and northwest of Yogyakarta.",
+      "sources": [
+        { "name": "Wikipedia — Borobudur", "url": "https://en.wikipedia.org/wiki/Borobudur", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Period",
+        "value": "A 9th-century temple.",
+        "sources": [
+          { "name": "Wikipedia — Borobudur", "url": "https://en.wikipedia.org/wiki/Borobudur", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Tradition",
+        "value": "A Mahayana Buddhist temple, also transcribed Barabudur.",
+        "sources": [
+          { "name": "Wikipedia — Borobudur", "url": "https://en.wikipedia.org/wiki/Borobudur", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "Magelang Regency in Central Java, Indonesia, near Muntilan and northwest of the city of Yogyakarta.",
+        "sources": [
+          { "name": "Wikipedia — Borobudur", "url": "https://en.wikipedia.org/wiki/Borobudur", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pradaksina.jpg",
+        "alt": "Buddhist monks walking around Borobudur temple in a pradaksina, the ritual circumambulation of the monument.",
+        "attribution": "Heri nugroho, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Pradaksina.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "bali", "reason": "geography" },
+      { "toId": "singapore", "reason": "geography" },
+      { "toId": "bagan", "reason": "topic" },
+      { "toId": "angkor-wat", "reason": "topic" }
+    ],
+    "categories": ["asia", "temple", "buddhist", "ancient"]
+  },
+  {
+    "id": "bagan",
+    "name": "Bagan",
+    "type": "heritage",
+    "coordinates": { "lat": 21.1725, "lon": 94.86 },
+    "summary": {
+      "text": "Bagan is a medieval city and UNESCO World Heritage Site in the Mandalay Region of Myanmar. It was the capital of the Pagan Kingdom, and thousands of Buddhist temples and pagodas were raised on its plains.",
+      "sources": [
+        { "name": "Wikipedia — Bagan", "url": "https://en.wikipedia.org/wiki/Bagan", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Capital",
+        "value": "From the 9th to 13th centuries it was the capital of the Pagan Kingdom, the first kingdom to unify the regions that later made up Myanmar.",
+        "sources": [
+          { "name": "Wikipedia — Bagan", "url": "https://en.wikipedia.org/wiki/Bagan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Temples built",
+        "value": "At the kingdom's height, between the 11th and 13th centuries, more than 10,000 Buddhist temples, pagodas and monasteries were constructed on the Bagan plains.",
+        "sources": [
+          { "name": "Wikipedia — Bagan", "url": "https://en.wikipedia.org/wiki/Bagan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Temples surviving",
+        "value": "The remains of over 2,300 temples and pagodas survive.",
+        "sources": [
+          { "name": "Wikipedia — Bagan", "url": "https://en.wikipedia.org/wiki/Bagan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "The Mandalay Region of Myanmar.",
+        "sources": [
+          { "name": "Wikipedia — Bagan", "url": "https://en.wikipedia.org/wiki/Bagan", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bagan%2C%20Burma.jpg",
+        "alt": "View over the plain of Bagan in Myanmar, with temples and pagodas scattered across the landscape.",
+        "attribution": "Corto Maltese 1999, CC BY 2.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Bagan, Burma.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Bagan,_Burma.jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "borobudur", "reason": "topic" },
+      { "toId": "angkor-wat", "reason": "topic" },
+      { "toId": "bangkok", "reason": "geography" },
+      { "toId": "sigiriya", "reason": "category" }
+    ],
+    "categories": ["asia", "unesco-world-heritage", "temple", "buddhist", "ancient"]
+  }
+]

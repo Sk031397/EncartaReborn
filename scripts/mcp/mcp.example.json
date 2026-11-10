@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "encarta-sources": {
+      "command": "npx",
+      "args": ["tsx", "scripts/mcp/server.ts"],
+      "disabled": false,
+      "autoApprove": [
+        "wikipedia_summary",
+        "commons_license",
+        "commons_search",
+        "validate_places"
+      ]
+    }
+  }
+}

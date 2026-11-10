@@ -1,0 +1,297 @@
+[
+  {
+    "id": "milford-sound",
+    "name": "Milford Sound",
+    "type": "natural",
+    "coordinates": { "lat": -44.64805556, "lon": 167.90555556 },
+    "summary": {
+      "text": "Milford Sound is a fiord on the south-west coast of New Zealand's South Island. It lies inside Fiordland National Park and is part of the Te Wahipounamu World Heritage area. It is widely regarded as one of the country's best-known visitor destinations.",
+      "sources": [
+        { "name": "Wikipedia — Milford Sound", "url": "https://en.wikipedia.org/wiki/Milford_Sound", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Protected areas",
+        "value": "Sits within Fiordland National Park, Piopiotahi Marine Reserve and the Te Wahipounamu World Heritage site.",
+        "sources": [
+          { "name": "Wikipedia — Milford Sound", "url": "https://en.wikipedia.org/wiki/Milford_Sound", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Landform",
+        "value": "A fiord on the south-west coast of New Zealand's South Island.",
+        "sources": [
+          { "name": "Wikipedia — Milford Sound", "url": "https://en.wikipedia.org/wiki/Milford_Sound", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Access",
+        "value": "Most visitors arrive by road on tour coaches; the road ends at a small village also named Milford Sound.",
+        "sources": [
+          { "name": "Wikipedia — Milford Sound", "url": "https://en.wikipedia.org/wiki/Milford_Sound", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Reputation",
+        "value": "Rudyard Kipling is recorded as calling it the eighth Wonder of the World.",
+        "sources": [
+          { "name": "Wikipedia — Milford Sound", "url": "https://en.wikipedia.org/wiki/Milford_Sound", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "aoraki-mount-cook", "reason": "geography" },
+      { "toId": "tongariro-national-park", "reason": "geography" },
+      { "toId": "geirangerfjord", "reason": "topic" },
+      { "toId": "torres-del-paine", "reason": "category" }
+    ],
+    "categories": ["natural", "oceania", "new-zealand", "fjord", "coastal", "unesco-world-heritage"]
+  },
+  {
+    "id": "tongariro-national-park",
+    "name": "Tongariro National Park",
+    "type": "heritage",
+    "coordinates": { "lat": -39.29083333, "lon": 175.56222222 },
+    "summary": {
+      "text": "Tongariro National Park lies in the central North Island of New Zealand and is the country's oldest national park. Three active volcanoes rise at its centre, and several of its summits are sacred to Māori. UNESCO recognises it for both its natural and cultural values.",
+      "sources": [
+        { "name": "Wikipedia — Tongariro National Park", "url": "https://en.wikipedia.org/wiki/Tongariro_National_Park", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Park history",
+        "value": "The oldest national park in New Zealand and the sixth national park established in the world.",
+        "sources": [
+          { "name": "Wikipedia — Tongariro National Park", "url": "https://en.wikipedia.org/wiki/Tongariro_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Volcanoes",
+        "value": "The active volcanic mountains Ruapehu, Ngauruhoe and Tongariro stand in the centre of the park.",
+        "sources": [
+          { "name": "Wikipedia — Tongariro National Park", "url": "https://en.wikipedia.org/wiki/Tongariro_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Cultural significance",
+        "value": "Many summits, including Ngauruhoe and Ruapehu, are tapu (sacred) to Māori.",
+        "sources": [
+          { "name": "Wikipedia — Tongariro National Park", "url": "https://en.wikipedia.org/wiki/Tongariro_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Recognised by UNESCO as a World Heritage Site for mixed cultural and natural values.",
+        "sources": [
+          { "name": "Wikipedia — Tongariro National Park", "url": "https://en.wikipedia.org/wiki/Tongariro_National_Park", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "mount-fuji", "reason": "category" },
+      { "toId": "milford-sound", "reason": "geography" },
+      { "toId": "aoraki-mount-cook", "reason": "geography" },
+      { "toId": "yellowstone", "reason": "topic" },
+      { "toId": "mount-kilimanjaro", "reason": "category" }
+    ],
+    "categories": ["heritage", "oceania", "new-zealand", "volcano", "national-park", "unesco-world-heritage"]
+  },
+  {
+    "id": "kakadu-national-park",
+    "name": "Kakadu National Park",
+    "type": "heritage",
+    "coordinates": { "lat": -13.1, "lon": 132.6 },
+    "summary": {
+      "text": "Kakadu National Park is a large protected area in Australia's Northern Territory, to the south-east of Darwin. It is listed as a World Heritage Site. The park is also officially recognised as a locality with its own small resident population.",
+      "sources": [
+        { "name": "Wikipedia — Kakadu National Park", "url": "https://en.wikipedia.org/wiki/Kakadu_National_Park", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Location",
+        "value": "In the Northern Territory of Australia, 171 km (106 mi) south-east of Darwin.",
+        "sources": [
+          { "name": "Wikipedia — Kakadu National Park", "url": "https://en.wikipedia.org/wiki/Kakadu_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Kakadu is a World Heritage Site.",
+        "sources": [
+          { "name": "Wikipedia — Kakadu National Park", "url": "https://en.wikipedia.org/wiki/Kakadu_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "Gazetted as a locality covering the same area as the park; 313 people were recorded living there in the 2016 Australian census.",
+        "sources": [
+          { "name": "Wikipedia — Kakadu National Park", "url": "https://en.wikipedia.org/wiki/Kakadu_National_Park", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "uluru", "reason": "geography" },
+      { "toId": "great-barrier-reef", "reason": "geography" },
+      { "toId": "okavango-delta", "reason": "category" },
+      { "toId": "amazon-rainforest", "reason": "topic" }
+    ],
+    "categories": ["heritage", "oceania", "australia", "national-park", "unesco-world-heritage"]
+  },
+  {
+    "id": "fiji",
+    "name": "Fiji",
+    "type": "country",
+    "coordinates": { "lat": -18, "lon": 179 },
+    "summary": {
+      "text": "Fiji is an island country in the Melanesia region of the South Pacific Ocean. It is made up of hundreds of islands and many smaller islets, and lies roughly 1,100 nautical miles north-north-east of New Zealand.",
+      "sources": [
+        { "name": "Wikipedia — Fiji", "url": "https://en.wikipedia.org/wiki/Fiji", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Islands",
+        "value": "More than 330 islands, of which about 110 are permanently inhabited, plus more than 500 islets.",
+        "sources": [
+          { "name": "Wikipedia — Fiji", "url": "https://en.wikipedia.org/wiki/Fiji", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Land area",
+        "value": "About 18,300 square kilometres (7,100 sq mi).",
+        "sources": [
+          { "name": "Wikipedia — Fiji", "url": "https://en.wikipedia.org/wiki/Fiji", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "About 87% of people live on the two main islands, Viti Levu and Vanua Levu.",
+        "sources": [
+          { "name": "Wikipedia — Fiji", "url": "https://en.wikipedia.org/wiki/Fiji", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Capital",
+        "value": "Suva, on the coast of Viti Levu.",
+        "sources": [
+          { "name": "Wikipedia — Fiji", "url": "https://en.wikipedia.org/wiki/Fiji", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "bora-bora", "reason": "geography" },
+      { "toId": "great-barrier-reef", "reason": "geography" },
+      { "toId": "bali", "reason": "category" },
+      { "toId": "zanzibar-stone-town", "reason": "topic" },
+      { "toId": "galapagos-islands", "reason": "topic" }
+    ],
+    "categories": ["country", "oceania", "island", "archipelago", "coastal"]
+  },
+  {
+    "id": "bora-bora",
+    "name": "Bora Bora",
+    "type": "natural",
+    "coordinates": { "lat": -16.501, "lon": -151.74 },
+    "summary": {
+      "text": "Bora Bora is an island group in the Leeward Islands of French Polynesia, in the South Pacific. The main island is ringed by a lagoon and a barrier reef, and its centre holds the remains of an extinct volcano.",
+      "sources": [
+        { "name": "Wikipedia — Bora Bora", "url": "https://en.wikipedia.org/wiki/Bora_Bora", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Land area",
+        "value": "About 30.55 km² (12 sq mi).",
+        "sources": [
+          { "name": "Wikipedia — Bora Bora", "url": "https://en.wikipedia.org/wiki/Bora_Bora", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "The main island lies about 230 kilometres north-west of Papeete.",
+        "sources": [
+          { "name": "Wikipedia — Bora Bora", "url": "https://en.wikipedia.org/wiki/Bora_Bora", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Lagoon and reef",
+        "value": "The main island is surrounded by a lagoon and a barrier reef.",
+        "sources": [
+          { "name": "Wikipedia — Bora Bora", "url": "https://en.wikipedia.org/wiki/Bora_Bora", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Highest point",
+        "value": "727 m (2,385 ft), among the twin peaks of Mount Pahia and Mount Otemanu on an extinct volcano.",
+        "sources": [
+          { "name": "Wikipedia — Bora Bora", "url": "https://en.wikipedia.org/wiki/Bora_Bora", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "fiji", "reason": "geography" },
+      { "toId": "great-barrier-reef", "reason": "topic" },
+      { "toId": "easter-island", "reason": "geography" },
+      { "toId": "santorini", "reason": "topic" }
+    ],
+    "categories": ["natural", "oceania", "island", "volcano", "coastal", "reef"]
+  },
+  {
+    "id": "aoraki-mount-cook",
+    "name": "Aoraki / Mount Cook",
+    "type": "natural",
+    "coordinates": { "lat": -43.595, "lon": 170.14194444 },
+    "summary": {
+      "text": "Aoraki / Mount Cook is the highest mountain in New Zealand, standing in the Southern Alps of the South Island. It is a popular destination for visitors and a favoured challenge for mountaineers.",
+      "sources": [
+        { "name": "Wikipedia — Aoraki / Mount Cook", "url": "https://en.wikipedia.org/wiki/Aoraki_%2F_Mount_Cook", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Height",
+        "value": "Listed as 3,724 metres as of 2014.",
+        "sources": [
+          { "name": "Wikipedia — Aoraki / Mount Cook", "url": "https://en.wikipedia.org/wiki/Aoraki_%2F_Mount_Cook", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Summits",
+        "value": "Three summits, from south to north: Low Peak, Middle Peak and High Peak.",
+        "sources": [
+          { "name": "Wikipedia — Aoraki / Mount Cook", "url": "https://en.wikipedia.org/wiki/Aoraki_%2F_Mount_Cook", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Glaciers",
+        "value": "The Tasman Glacier lies to the east and the Hooker Glacier to the south-west.",
+        "sources": [
+          { "name": "Wikipedia — Aoraki / Mount Cook", "url": "https://en.wikipedia.org/wiki/Aoraki_%2F_Mount_Cook", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Isolation",
+        "value": "Ranked 10th in the world by topographic isolation.",
+        "sources": [
+          { "name": "Wikipedia — Aoraki / Mount Cook", "url": "https://en.wikipedia.org/wiki/Aoraki_%2F_Mount_Cook", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "milford-sound", "reason": "geography" },
+      { "toId": "tongariro-national-park", "reason": "geography" },
+      { "toId": "matterhorn", "reason": "category" },
+      { "toId": "mount-everest", "reason": "category" }
+    ],
+    "categories": ["natural", "oceania", "new-zealand", "mountain", "glacier"]
+  }
+]

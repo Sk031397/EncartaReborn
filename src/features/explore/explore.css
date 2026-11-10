@@ -1,0 +1,179 @@
+.explore__lead {
+  color: var(--c-text-dim);
+  max-width: var(--measure);
+  margin: 0 0 var(--sp-2);
+}
+.explore__count {
+  font-size: var(--fs-300);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--c-teal);
+  margin: 0 0 var(--sp-5);
+}
+
+.explore__toolbar {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-5);
+  flex-wrap: wrap;
+}
+
+.explore__views {
+  display: flex;
+  gap: var(--sp-2);
+  margin-left: auto;
+}
+.explore__views .btn[aria-pressed='true'] {
+  background: var(--c-surface-2);
+  border-color: var(--c-teal);
+  color: var(--c-teal);
+}
+
+.explore__loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+}
+
+.explore__credit {
+  margin: var(--sp-2) 0 0;
+  font-size: var(--fs-300);
+  color: var(--c-text-dim);
+}
+.explore__credit a {
+  color: var(--c-teal);
+}
+
+.explore__map-wrap {
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  padding: var(--sp-4);
+  box-shadow: var(--shadow);
+}
+
+.worldmap {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.worldmap__ocean {
+  fill: #0a1120;
+}
+.worldmap__land path {
+  fill: #1c2d4d;
+  stroke: #2b3f66;
+  stroke-width: 0.75;
+  stroke-linejoin: round;
+}
+.worldmap__graticule {
+  stroke: var(--c-border);
+  stroke-width: 0.4;
+  stroke-dasharray: 2 4;
+  fill: none;
+  opacity: 0.5;
+}
+
+.marker {
+  cursor: pointer;
+}
+.marker__dot {
+  fill: var(--c-teal);
+  stroke: var(--c-bg);
+  stroke-width: 1.5;
+  transition:
+    r var(--dur) var(--ease),
+    fill var(--dur) var(--ease);
+}
+.marker:hover .marker__dot,
+.marker:focus-visible .marker__dot {
+  fill: var(--c-amber);
+}
+.marker:focus-visible {
+  outline: 3px solid var(--c-focus);
+  outline-offset: 2px;
+  border-radius: 50%;
+}
+/* Labels appear on hover or keyboard focus. With 38 places, always-on labels
+   collide badly (Europe and the Mediterranean); every marker still has its
+   name as an accessible label, and every place is in the list below. */
+.marker__label {
+  fill: var(--c-text);
+  font-family: var(--font-body);
+  font-size: 11px;
+  paint-order: stroke;
+  stroke: var(--c-bg);
+  stroke-width: 3px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity var(--dur) var(--ease);
+}
+.marker:hover .marker__label,
+.marker:focus-visible .marker__label {
+  opacity: 1;
+}
+
+/* A bounded, non-feed index of all places for keyboard/scan access. */
+.explore__index {
+  margin-top: var(--sp-6);
+}
+
+/* Find a place */
+.explore__filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: var(--sp-3);
+  margin-top: var(--sp-6);
+}
+.explore__filters .field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-1);
+  flex: 1 1 12rem;
+  min-width: 10rem;
+}
+.explore__filters label {
+  font-size: var(--fs-300);
+  color: var(--c-text-dim);
+}
+.explore__filters input,
+.explore__filters select {
+  min-height: 2.75rem;
+  background: var(--c-bg);
+  color: var(--c-text);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius-sm);
+  padding: var(--sp-2) var(--sp-3);
+  font-family: var(--font-body);
+  font-size: var(--fs-400);
+}
+.explore__results {
+  margin: var(--sp-3) 0 0;
+  font-size: var(--fs-300);
+  color: var(--c-text-dim);
+}
+.explore__empty {
+  color: var(--c-text-dim);
+}
+.explore__index {
+  margin-top: var(--sp-3);
+}
+
+/* The place index is a compact grid, so 100 places stay scannable on a phone. */
+.explore__index .rail {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+  gap: var(--sp-2);
+}
+.explore__index .rail__item {
+  min-width: 0;
+}
+.explore__index .rail__item .btn {
+  width: 100%;
+  min-height: 2.75rem;
+  text-align: left;
+  font-weight: 600;
+}

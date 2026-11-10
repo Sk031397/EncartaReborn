@@ -1,0 +1,409 @@
+[
+  {
+    "id": "potala-palace",
+    "name": "Potala Palace",
+    "type": "heritage",
+    "coordinates": { "lat": 29.65777778, "lon": 91.11694444 },
+    "summary": {
+      "text": "The Potala Palace is a hilltop palace complex in Lhasa, in the Tibet Autonomous Region of China. It served as the winter palace and residence of the Dalai Lamas and is now a museum. Its name comes from Mount Potalaka, a legendary Buddhist abode of the bodhisattva Avalokiteshvara.",
+      "sources": [
+        { "name": "Wikipedia — Potala Palace", "url": "https://en.wikipedia.org/wiki/Potala_Palace", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Residence",
+        "value": "From 1649 until 1959 it served as the residence of the Dalai Lamas.",
+        "sources": [
+          { "name": "Wikipedia — Potala Palace", "url": "https://en.wikipedia.org/wiki/Potala_Palace", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Construction",
+        "value": "Work on the present structure began in 1645 at the order of the 5th Dalai Lama, on the site of an earlier palace attributed to Songtsen Gampo.",
+        "sources": [
+          { "name": "Wikipedia — Potala Palace", "url": "https://en.wikipedia.org/wiki/Potala_Palace", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Scale",
+        "value": "It rises 13 stories at an altitude of about 3,700 metres and contains more than 1,000 rooms and some 200,000 statues.",
+        "sources": [
+          { "name": "Wikipedia — Potala Palace", "url": "https://en.wikipedia.org/wiki/Potala_Palace", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Inscribed on the UNESCO World Heritage List in 1994.",
+        "sources": [
+          { "name": "Wikipedia — Potala Palace", "url": "https://en.wikipedia.org/wiki/Potala_Palace", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "kathmandu-valley", "reason": "geography" },
+      { "toId": "mount-everest", "reason": "geography" },
+      { "toId": "forbidden-city", "reason": "category" },
+      { "toId": "borobudur", "reason": "topic" },
+      { "toId": "lalibela", "reason": "topic" }
+    ],
+    "categories": ["asia", "unesco-world-heritage", "palace", "buddhism", "mountain"]
+  },
+  {
+    "id": "terracotta-army",
+    "name": "Terracotta Army",
+    "type": "heritage",
+    "coordinates": { "lat": 34.385, "lon": 109.273056 },
+    "summary": {
+      "text": "The Terracotta Army is a collection of clay sculptures depicting the soldiers of Qin Shi Huang, the first emperor of China. The figures were buried with him around 210 to 209 BCE to protect him in the afterlife. They lie near Xi'an in Shaanxi Province.",
+      "sources": [
+        { "name": "Wikipedia — Terracotta Army", "url": "https://en.wikipedia.org/wiki/Terracotta_Army", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Discovery",
+        "value": "Found on 29 March 1974 by farmers digging a well east of the emperor's tomb mound.",
+        "sources": [
+          { "name": "Wikipedia — Terracotta Army", "url": "https://en.wikipedia.org/wiki/Terracotta_Army", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Size of the army",
+        "value": "Estimates from 2007 put the three pits at more than 8,000 soldiers, 130 chariots with 520 horses, and 150 cavalry horses.",
+        "sources": [
+          { "name": "Wikipedia — Terracotta Army", "url": "https://en.wikipedia.org/wiki/Terracotta_Army", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Figures",
+        "value": "The warriors are life-sized, typically 1.75 to about 2 metres tall, with officers usually taller, and their faces differ from figure to figure.",
+        "sources": [
+          { "name": "Wikipedia — Terracotta Army", "url": "https://en.wikipedia.org/wiki/Terracotta_Army", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Painted figures",
+        "value": "The figures were originally painted, but much of the colour coating flakes off within minutes of exposure to Xi'an's dry air.",
+        "sources": [
+          { "name": "Wikipedia — Terracotta Army", "url": "https://en.wikipedia.org/wiki/Terracotta_Army", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/51714-Terracota-Army.jpg",
+        "alt": "Rows of life-sized terracotta warrior figures standing in an excavation pit at the Terracotta Army site near Xi'an, China.",
+        "attribution": "xiquinhosilva, CC BY 2.0, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — 51714-Terracota-Army.jpg", "url": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg", "license": "CC-BY" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "great-wall-china", "reason": "geography" },
+      { "toId": "forbidden-city", "reason": "category" },
+      { "toId": "great-pyramid-giza", "reason": "topic" },
+      { "toId": "persepolis", "reason": "topic" }
+    ],
+    "categories": ["asia", "unesco-world-heritage", "ancient", "archaeology"]
+  },
+  {
+    "id": "wulingyuan",
+    "name": "Wulingyuan",
+    "type": "natural",
+    "coordinates": { "lat": 29.33333333, "lon": 110.5 },
+    "summary": {
+      "text": "Wulingyuan is a scenic reserve in Hunan Province, China, known for thousands of tall sandstone pillars rising above forested valleys. The area also holds gorges, streams, waterfalls, caves, and a very high natural bridge. It shelters several vulnerable animal species.",
+      "sources": [
+        { "name": "Wikipedia — Wulingyuan", "url": "https://en.wikipedia.org/wiki/Wulingyuan", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Sandstone pillars",
+        "value": "More than 3,000 quartzite sandstone pillars and peaks, many over 200 metres high.",
+        "sources": [
+          { "name": "Wikipedia — Wulingyuan", "url": "https://en.wikipedia.org/wiki/Wulingyuan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Formation",
+        "value": "The pillars formed during the Devonian period, 400 to 350 million years ago, through tectonic uplift and water erosion.",
+        "sources": [
+          { "name": "Wikipedia — Wulingyuan", "url": "https://en.wikipedia.org/wiki/Wulingyuan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Caves and bridge",
+        "value": "It has 40 caves and a natural bridge called Tianqiaoshengkong, meaning 'bridge across the sky'.",
+        "sources": [
+          { "name": "Wikipedia — Wulingyuan", "url": "https://en.wikipedia.org/wiki/Wulingyuan", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Inscribed as a UNESCO World Heritage Site in 1992.",
+        "sources": [
+          { "name": "Wikipedia — Wulingyuan", "url": "https://en.wikipedia.org/wiki/Wulingyuan", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+        "alt": "Panoramic view from Mount Tianzi of Wulingyuan, with tall sandstone pillars rising from forested valleys in Hunan, China.",
+        "attribution": "chensiyuan, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — 1 tianzishan wulingyuan zhangjiajie 2012.jpg", "url": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "ha-long-bay", "reason": "category" },
+      { "toId": "great-wall-china", "reason": "geography" },
+      { "toId": "yosemite", "reason": "category" },
+      { "toId": "milford-sound", "reason": "topic" }
+    ],
+    "categories": ["asia", "unesco-world-heritage", "mountain", "forest", "cave"]
+  },
+  {
+    "id": "lake-baikal",
+    "name": "Lake Baikal",
+    "type": "natural",
+    "coordinates": { "lat": 53.5, "lon": 108 },
+    "summary": {
+      "text": "Lake Baikal is a rift lake in southern Siberia, Russia, and the deepest lake in the world. It holds more fresh water by volume than any other lake and is among the oldest and clearest. Many of the plants and animals living there are found nowhere else.",
+      "sources": [
+        { "name": "Wikipedia — Lake Baikal", "url": "https://en.wikipedia.org/wiki/Lake_Baikal", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Maximum depth",
+        "value": "1,642 metres (5,387 feet), the deepest lake in the world.",
+        "sources": [
+          { "name": "Wikipedia — Lake Baikal", "url": "https://en.wikipedia.org/wiki/Lake_Baikal", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Surface area",
+        "value": "31,722 square kilometres, roughly 636 km long and 79 km wide.",
+        "sources": [
+          { "name": "Wikipedia — Lake Baikal", "url": "https://en.wikipedia.org/wiki/Lake_Baikal", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Age",
+        "value": "At an estimated 25 to 30 million years, it is the world's oldest lake.",
+        "sources": [
+          { "name": "Wikipedia — Lake Baikal", "url": "https://en.wikipedia.org/wiki/Lake_Baikal", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "UNESCO declared Baikal a World Heritage Site in 1996.",
+        "sources": [
+          { "name": "Wikipedia — Lake Baikal", "url": "https://en.wikipedia.org/wiki/Lake_Baikal", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Baikal.A2001296.0420.250m-NASA.jpg",
+        "alt": "Satellite view of Lake Baikal in southern Siberia, a long crescent-shaped lake, captured by NASA's Terra/MODIS sensor.",
+        "attribution": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC, public domain, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — Baikal.A2001296.0420.250m-NASA.jpg", "url": "https://commons.wikimedia.org/wiki/File:Baikal.A2001296.0420.250m-NASA.jpg", "license": "public-domain" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "dead-sea", "reason": "category" },
+      { "toId": "iceland", "reason": "topic" },
+      { "toId": "yellowstone", "reason": "topic" },
+      { "toId": "great-wall-china", "reason": "geography" }
+    ],
+    "categories": ["asia", "unesco-world-heritage", "lake", "rift", "wildlife"]
+  },
+  {
+    "id": "sigiriya",
+    "name": "Sigiriya",
+    "type": "heritage",
+    "coordinates": { "lat": 7.95694444, "lon": 80.75972222 },
+    "summary": {
+      "text": "Sigiriya, also called Lion Rock, is an ancient rock fortress in central Sri Lanka near the town of Dambulla. A tall column of granite dominates the site, which holds the remains of a fifth-century royal city. It is a UNESCO World Heritage Site.",
+      "sources": [
+        { "name": "Wikipedia — Sigiriya", "url": "https://en.wikipedia.org/wiki/Sigiriya", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "The rock",
+        "value": "A massive granite column approximately 180 metres high.",
+        "sources": [
+          { "name": "Wikipedia — Sigiriya", "url": "https://en.wikipedia.org/wiki/Sigiriya", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Royal capital",
+        "value": "King Kashyapa (477 to 495 CE) chose the site for his new capital and built his palace on top of the rock.",
+        "sources": [
+          { "name": "Wikipedia — Sigiriya", "url": "https://en.wikipedia.org/wiki/Sigiriya", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Later use",
+        "value": "After the king's death the capital was abandoned, and the site was used as a Buddhist monastery until the 14th century.",
+        "sources": [
+          { "name": "Wikipedia — Sigiriya", "url": "https://en.wikipedia.org/wiki/Sigiriya", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Designated a UNESCO World Heritage Site in 1982 as the Ancient City of Sigiriya.",
+        "sources": [
+          { "name": "Wikipedia — Sigiriya", "url": "https://en.wikipedia.org/wiki/Sigiriya", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sigiriya_(141688197).jpeg",
+        "alt": "The granite rock of Sigiriya rising above the surrounding plain in Sri Lanka.",
+        "attribution": "Wrobell, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — Sigiriya (141688197).jpeg", "url": "https://commons.wikimedia.org/wiki/File:Sigiriya_(141688197).jpeg", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "borobudur", "reason": "topic" },
+      { "toId": "angkor-wat", "reason": "category" },
+      { "toId": "taj-mahal", "reason": "geography" },
+      { "toId": "machu-picchu", "reason": "topic" },
+      { "toId": "bagan", "reason": "category" }
+    ],
+    "categories": ["asia", "unesco-world-heritage", "ancient", "fortress", "island"]
+  },
+  {
+    "id": "kathmandu-valley",
+    "name": "Kathmandu Valley",
+    "type": "heritage",
+    "coordinates": { "lat": 27.70388889, "lon": 85.30861111 },
+    "summary": {
+      "text": "The Kathmandu Valley is a bowl-shaped valley in the Himalayas of Nepal and the country's largest urban area. It sits at a crossroads of ancient South and East Asian civilizations and holds at least 130 important monuments. Several of them are Hindu and Buddhist pilgrimage sites.",
+      "sources": [
+        { "name": "Wikipedia — Kathmandu Valley", "url": "https://en.wikipedia.org/wiki/Kathmandu_Valley", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "World Heritage Sites",
+        "value": "The valley holds seven World Heritage Sites.",
+        "sources": [
+          { "name": "Wikipedia — Kathmandu Valley", "url": "https://en.wikipedia.org/wiki/Kathmandu_Valley", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Monuments",
+        "value": "It has at least 130 important monuments, including several Hindu and Buddhist pilgrimage sites.",
+        "sources": [
+          { "name": "Wikipedia — Kathmandu Valley", "url": "https://en.wikipedia.org/wiki/Kathmandu_Valley", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "About 5 million people live in the valley's urban agglomeration, the largest in Nepal.",
+        "sources": [
+          { "name": "Wikipedia — Kathmandu Valley", "url": "https://en.wikipedia.org/wiki/Kathmandu_Valley", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Name of Kathmandu",
+        "value": "The name comes from Kasthamandap, a wooden pavilion in Kathmandu Durbar Square built in 1596.",
+        "sources": [
+          { "name": "Wikipedia — Kathmandu Valley", "url": "https://en.wikipedia.org/wiki/Kathmandu_Valley", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kathmandu,_Nepal.JPG",
+        "alt": "Astronaut photograph from the International Space Station showing the Kathmandu metropolitan area, pale grey, ringed by green vegetated slopes.",
+        "attribution": "ISS Expedition 25 crew, NASA Earth Observatory, public domain, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — Kathmandu, Nepal.JPG", "url": "https://commons.wikimedia.org/wiki/File:Kathmandu,_Nepal.JPG", "license": "public-domain" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "mount-everest", "reason": "geography" },
+      { "toId": "potala-palace", "reason": "geography" },
+      { "toId": "varanasi", "reason": "topic" },
+      { "toId": "bagan", "reason": "category" },
+      { "toId": "jerusalem", "reason": "topic" }
+    ],
+    "categories": ["asia", "unesco-world-heritage", "valley", "pilgrimage", "himalaya"]
+  },
+  {
+    "id": "bangkok",
+    "name": "Bangkok",
+    "type": "city",
+    "coordinates": { "lat": 13.7525, "lon": 100.49416667 },
+    "summary": {
+      "text": "Bangkok, called Krung Thep Maha Nakhon in Thai, is the capital and largest city of Thailand. It lies in the Chao Phraya River delta and began as a small trading post in the Ayutthaya era. Today it is home to the Grand Palace and many Buddhist temples.",
+      "sources": [
+        { "name": "Wikipedia — Bangkok", "url": "https://en.wikipedia.org/wiki/Bangkok", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Area",
+        "value": "The city covers 1,568.7 square kilometres in the Chao Phraya River delta of central Thailand.",
+        "sources": [
+          { "name": "Wikipedia — Bangkok", "url": "https://en.wikipedia.org/wiki/Bangkok", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "An estimated 9.1 million people in 2024, with over 17.4 million in the wider metropolitan region.",
+        "sources": [
+          { "name": "Wikipedia — Bangkok", "url": "https://en.wikipedia.org/wiki/Bangkok", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Origins",
+        "value": "It grew from a trading post in the 15th century and was founded as the capital on 21 April 1782 by Rama I.",
+        "sources": [
+          { "name": "Wikipedia — Bangkok", "url": "https://en.wikipedia.org/wiki/Bangkok", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/4Y1A1159_Bangkok_(33536795515).jpg",
+        "alt": "View of Bangkok's skyline and skyscrapers, photographed from the State Tower.",
+        "attribution": "Ninara, CC BY 2.0, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — 4Y1A1159 Bangkok (33536795515).jpg", "url": "https://commons.wikimedia.org/wiki/File:4Y1A1159_Bangkok_(33536795515).jpg", "license": "CC-BY" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "angkor-wat", "reason": "geography" },
+      { "toId": "singapore", "reason": "geography" },
+      { "toId": "bali", "reason": "geography" },
+      { "toId": "tokyo", "reason": "category" },
+      { "toId": "istanbul", "reason": "category" }
+    ],
+    "categories": ["asia", "capital", "river-delta", "buddhism"]
+  }
+]

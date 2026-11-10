@@ -1,0 +1,344 @@
+[
+  {
+    "placeId": "rome",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
+        "alt": "The Baroque Trevi Fountain in Rome, with sculpted figures and basins of water in front of a palace facade.",
+        "attribution": "Diliff, CC BY 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Trevi Fountain, Rome, Italy 2 - May 2007.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "acropolis-athens",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+        "alt": "The Acropolis of Athens on its rocky hill, lit up against the night sky.",
+        "attribution": "Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — 1029 Acropolis of Athens in Greece at night Photo by Giles Laurent.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "victoria-falls",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+        "alt": "Water plunging over the cliff of Victoria Falls on the Zambezi River between Zambia and Zimbabwe.",
+        "attribution": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 04.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "table-mountain",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Table_Mountain_DanieVDM.jpg",
+        "alt": "The flat-topped summit of Table Mountain rising above Cape Town, South Africa.",
+        "attribution": "Danie van der Merwe, CC BY 2.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Table Mountain DanieVDM.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "mount-kilimanjaro",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kilimanjaro_from_Amboseli.jpg",
+        "alt": "Mount Kilimanjaro rising above the plains of Amboseli.",
+        "attribution": "Sergey Pesterev, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Kilimanjaro from Amboseli.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "marrakesh",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marrakech,_Morocco_(5421595453)_(5).jpg",
+        "alt": "A photograph taken in Marrakech, Morocco.",
+        "attribution": "YoTuT, CC BY 2.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Marrakech, Morocco (5421595453) (5).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Marrakech,_Morocco_(5421595453)_(5).jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "istanbul",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+        "alt": "Panorama of Istanbul showing the historical peninsula beside the modern city skyline.",
+        "attribution": "Hunanuk, CC0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Historical peninsula and modern skyline of Istanbul.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+            "license": "CC0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "venice",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Venezia_aerial_view.jpg",
+        "alt": "Aerial view of Venice, its islands and canals set in the surrounding lagoon.",
+        "attribution": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Venezia aerial view.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Venezia_aerial_view.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "iceland",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkjufell,_Iceland,_20240714_1631_0713.jpg",
+        "alt": "Kirkjufell, a steep cone-shaped mountain on Iceland's Snæfellsnes peninsula.",
+        "attribution": "Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Kirkjufell, Iceland, 20240714 1631 0713.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Kirkjufell,_Iceland,_20240714_1631_0713.jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "sahara",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahara_real_color.jpg",
+        "alt": "View of the Sahara desert from space, showing tan and orange sands across North Africa.",
+        "attribution": "Project Apollo Archive (NASA), public domain, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Sahara real color.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Sahara_real_color.jpg",
+            "license": "public-domain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "serengeti",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Serengeti-Landscape-2012.JPG",
+        "alt": "Wide grassy plains of Serengeti National Park dotted with acacia trees.",
+        "attribution": "Bjørn Christian Tørrissen, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Serengeti-Landscape-2012.JPG",
+            "url": "https://commons.wikimedia.org/wiki/File:Serengeti-Landscape-2012.JPG",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "hagia-sophia",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hagia_Sophia_(228968325).jpeg",
+        "alt": "Hagia Sophia in Istanbul, with its large central dome and surrounding minarets.",
+        "attribution": "Adli Wahid, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Hagia Sophia (228968325).jpeg",
+            "url": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "varanasi",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Varanasi,_India,_Ghats,_Cremation_ceremony_in_progress.jpg",
+        "alt": "The ghats of Varanasi on the bank of the Ganges, where a cremation ceremony is taking place.",
+        "attribution": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Varanasi, India, Ghats, Cremation ceremony in progress.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Varanasi,_India,_Ghats,_Cremation_ceremony_in_progress.jpg",
+            "license": "CC-BY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "forbidden-city",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+        "alt": "The rooftops of the Forbidden City in Beijing seen from Coal Hill (Jingshan).",
+        "attribution": "Pixelflake, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — The Forbidden City - View from Coal Hill.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "uluru",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ULURU.jpg",
+        "alt": "Uluru, a large red sandstone monolith rising from the flat central Australian landscape.",
+        "attribution": "Ek2030372672, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — ULURU.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "amazon-rainforest",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon17_(5641020319).jpg",
+        "alt": "Dense tropical rainforest vegetation in the Amazon.",
+        "attribution": "CIAT, CC BY-SA 2.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Amazon17 (5641020319).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Amazon17_(5641020319).jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "galapagos-islands",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lobo_marino_(Zalophus_californianus_wollebaeki),_Punta_Pitt,_isla_de_San_Cristóbal,_islas_Galápagos,_Ecuador,_2015-07-24,_DD_11.JPG",
+        "alt": "A Galápagos sea lion at Punta Pitt on San Cristóbal Island in the Galápagos.",
+        "attribution": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Lobo marino (Zalophus californianus wollebaeki), Punta Pitt, isla de San Cristóbal, islas Galápagos, Ecuador, 2015-07-24, DD 11.JPG",
+            "url": "https://commons.wikimedia.org/wiki/File:Lobo_marino_(Zalophus_californianus_wollebaeki),_Punta_Pitt,_isla_de_San_Cristóbal,_islas_Galápagos,_Ecuador,_2015-07-24,_DD_11.JPG",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "chichen-itza",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen_Itza_3.jpg",
+        "alt": "Stone ruins at the Maya archaeological site of Chichen Itza in Yucatán, Mexico.",
+        "attribution": "Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Chichen Itza 3.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "placeId": "pompeii",
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+        "alt": "Aerial view of the ruins of Pompeii with Mount Vesuvius in the background, seen from the southeast.",
+        "attribution": "Carsten Steger, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Aerial image of Pompeii and Mount Vesuvius (view from the southeast).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ]
+  }
+]

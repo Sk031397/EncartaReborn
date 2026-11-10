@@ -1,0 +1,25 @@
+[
+  { "placeId": "bora-bora", "file": "File:BoraBora SEtienne.jpg", "alt": "Aerial view of Bora Bora: the green volcanic island ringed by a turquoise lagoon and barrier reef." },
+  { "placeId": "fiji", "file": "File:Beach on Naviti island, Yasawa Islands, Fiji (1) - August 2016.jpg", "alt": "A beach on Naviti island in Fiji's Yasawa Islands, with clear water along the shore." },
+  { "placeId": "madagascar", "file": "File:Allée des baobabs Morondava Madagascar.jpg", "alt": "The Avenue of the Baobabs near Morondava, Madagascar: a dirt road lined with towering baobab trees." },
+  { "placeId": "singapore", "file": "File:Marina Bay Singapore-3499.jpg", "alt": "The skyscrapers of Singapore's Central Business District lit up at night and reflected in Marina Bay." },
+  { "placeId": "teotihuacan", "file": "File:Pyramid of the Sun, Teotihuacan, from path to parking lot.jpg", "alt": "The stepped Pyramid of the Sun at Teotihuacan, Mexico, seen from a path across the site." },
+  { "placeId": "marrakesh", "file": "File:Jamaa El Fna, Marrakesh, Morocco, 20250124 1804 7017.jpg", "alt": "Jemaa el-Fnaa, the large central square of Marrakesh, Morocco." },
+
+  { "placeId": "bali", "alt": "Sunset over the beach at Kuta on the Indonesian island of Bali." },
+  { "placeId": "mexico-city", "alt": "Aerial photograph looking out over the dense streets and buildings of Mexico City." },
+  { "placeId": "iguazu-falls", "alt": "Iguazu Falls seen from the Brazilian side, with many cascades pouring into the river gorge." },
+  { "placeId": "torres-del-paine", "alt": "The jagged Cuernos del Paine peaks seen across Lake Pehoé in Torres del Paine National Park, Chile." },
+  { "placeId": "easter-island", "alt": "An ahu, a stone ceremonial platform, on Easter Island, with the town of Hanga Roa in the background." },
+  { "placeId": "salar-de-uyuni", "alt": "Small mounds of harvested salt on the flat white surface of the Salar de Uyuni in Bolivia." },
+  { "placeId": "potala-palace", "alt": "The Potala Palace in Lhasa, Tibet, seen from the foot of Chagpo Ri hill." },
+  { "placeId": "amsterdam", "alt": "The Amsterdam skyline at night, seen from a distance." },
+  { "placeId": "florence", "alt": "A view over the city of Florence, Italy, from Piazzale Michelangelo." },
+  { "placeId": "antarctica", "alt": "Antarctica seen from space in NASA's Blue Marble satellite composite: an ice-covered continent surrounded by ocean." },
+  { "placeId": "dubai", "alt": "The Dubai skyline lit up at night." },
+  { "placeId": "karnak", "alt": "Ruins of the Karnak temple complex at Luxor, Egypt." },
+  { "placeId": "milford-sound", "alt": "Mitre Peak rising steeply above the water of Milford Sound, New Zealand." },
+  { "placeId": "tongariro-national-park", "alt": "Landscape in Tongariro National Park on the North Island of New Zealand." },
+  { "placeId": "kakadu-national-park", "alt": "The view from Nadap Lookout over Kakadu National Park in Australia's Northern Territory." },
+  { "placeId": "aoraki-mount-cook", "alt": "The Mount Sefton massif in Aoraki / Mount Cook National Park, New Zealand." }
+]

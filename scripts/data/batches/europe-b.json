@@ -1,0 +1,411 @@
+[
+  {
+    "id": "geirangerfjord",
+    "name": "Geirangerfjord",
+    "type": "natural",
+    "coordinates": { "lat": 62.121, "lon": 7.129 },
+    "summary": {
+      "text": "Geirangerfjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is a short branch of a larger fjord system, and the small village of Geiranger sits at its head where a river flows in.",
+      "sources": [
+        { "name": "Wikipedia — Geirangerfjord", "url": "https://en.wikipedia.org/wiki/Geirangerfjord", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Length",
+        "value": "The fjord is about 15 kilometres long.",
+        "sources": [
+          { "name": "Wikipedia — Geirangerfjord", "url": "https://en.wikipedia.org/wiki/Geirangerfjord", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Fjord system",
+        "value": "It branches off the Sunnylvsfjorden, which is itself a branch of the Storfjorden.",
+        "sources": [
+          { "name": "Wikipedia — Geirangerfjord", "url": "https://en.wikipedia.org/wiki/Geirangerfjord", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Municipality",
+        "value": "The fjord lies entirely within Stranda Municipality.",
+        "sources": [
+          { "name": "Wikipedia — Geirangerfjord", "url": "https://en.wikipedia.org/wiki/Geirangerfjord", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Village",
+        "value": "The village of Geiranger is at the end of the fjord, where the Geirangelva river empties into it.",
+        "sources": [
+          { "name": "Wikipedia — Geirangerfjord", "url": "https://en.wikipedia.org/wiki/Geirangerfjord", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Geirangerfjord_.jpg",
+        "alt": "Geirangerfjord seen from above, a narrow blue fjord between steep green mountains with cloud shadows on the slopes.",
+        "attribution": "Andreas Trepte, CC BY-SA 2.5, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — Geirangerfjord .jpg", "url": "https://commons.wikimedia.org/wiki/File:Geirangerfjord_.jpg", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "iceland", "reason": "geography" },
+      { "toId": "milford-sound", "reason": "topic" },
+      { "toId": "torres-del-paine", "reason": "category" },
+      { "toId": "giants-causeway", "reason": "geography" }
+    ],
+    "categories": ["europe", "fjord", "coastal", "mountains"]
+  },
+  {
+    "id": "giants-causeway",
+    "name": "Giant's Causeway",
+    "type": "natural",
+    "coordinates": { "lat": 55.24083333, "lon": -6.51166667 },
+    "summary": {
+      "text": "The Giant's Causeway is a stretch of coast in County Antrim, Northern Ireland, covered with about 40,000 interlocking basalt columns. The columns formed in an ancient volcanic fissure eruption during the Paleogene period.",
+      "sources": [
+        { "name": "Wikipedia — Giant's Causeway", "url": "https://en.wikipedia.org/wiki/Giant's_Causeway", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Columns",
+        "value": "The site has approximately 40,000 interlocking basalt columns.",
+        "sources": [
+          { "name": "Wikipedia — Giant's Causeway", "url": "https://en.wikipedia.org/wiki/Giant's_Causeway", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Origin",
+        "value": "The columns resulted from a volcanic fissure eruption, part of the North Atlantic Igneous Province active during the Paleogene period.",
+        "sources": [
+          { "name": "Wikipedia — Giant's Causeway", "url": "https://en.wikipedia.org/wiki/Giant's_Causeway", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "It lies on the north coast of County Antrim, about three miles northeast of Bushmills.",
+        "sources": [
+          { "name": "Wikipedia — Giant's Causeway", "url": "https://en.wikipedia.org/wiki/Giant's_Causeway", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Causeway-code_poet-4.jpg",
+        "alt": "Dark hexagonal basalt columns of the Giant's Causeway stepping down to the sea, with waves breaking on the rock.",
+        "attribution": "code poet, CC BY-SA 2.0, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — Causeway-code poet-4.jpg", "url": "https://commons.wikimedia.org/wiki/File:Causeway-code_poet-4.jpg", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "cliffs-of-moher", "reason": "geography" },
+      { "toId": "edinburgh", "reason": "geography" },
+      { "toId": "iceland", "reason": "topic" },
+      { "toId": "mount-fuji", "reason": "topic" }
+    ],
+    "categories": ["europe", "volcanic", "coastal", "geology"]
+  },
+  {
+    "id": "cliffs-of-moher",
+    "name": "Cliffs of Moher",
+    "type": "natural",
+    "coordinates": { "lat": 52.97175056, "lon": -9.42633389 },
+    "summary": {
+      "text": "The Cliffs of Moher are sea cliffs on the southwestern edge of the Burren region in County Clare, Ireland. They stretch for roughly 14 kilometres along the Atlantic coast, with O'Brien's Tower near their midpoint.",
+      "sources": [
+        { "name": "Wikipedia — Cliffs of Moher", "url": "https://en.wikipedia.org/wiki/Cliffs_of_Moher", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Length",
+        "value": "The cliffs run for about 14 kilometres.",
+        "sources": [
+          { "name": "Wikipedia — Cliffs of Moher", "url": "https://en.wikipedia.org/wiki/Cliffs_of_Moher", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Height",
+        "value": "They rise 120 metres at Hag's Head in the south and reach a maximum of 214 metres just north of O'Brien's Tower.",
+        "sources": [
+          { "name": "Wikipedia — Cliffs of Moher", "url": "https://en.wikipedia.org/wiki/Cliffs_of_Moher", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "O'Brien's Tower",
+        "value": "A round stone tower near the midpoint of the cliffs, built in 1835 by Sir Cornelius O'Brien.",
+        "sources": [
+          { "name": "Wikipedia — Cliffs of Moher", "url": "https://en.wikipedia.org/wiki/Cliffs_of_Moher", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Nearest villages",
+        "value": "Liscannor lies 6 km to the south and Doolin 7 km to the north.",
+        "sources": [
+          { "name": "Wikipedia — Cliffs of Moher", "url": "https://en.wikipedia.org/wiki/Cliffs_of_Moher", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cliffs-Of-Moher-OBriens-From-South.JPG",
+        "alt": "Looking north along the Cliffs of Moher, steep layered sea cliffs above the Atlantic with O'Brien's Tower in the distance.",
+        "attribution": "Bjørn Christian Tørrissen, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — Cliffs-Of-Moher-OBriens-From-South.JPG", "url": "https://commons.wikimedia.org/wiki/File:Cliffs-Of-Moher-OBriens-From-South.JPG", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "giants-causeway", "reason": "geography" },
+      { "toId": "edinburgh", "reason": "geography" },
+      { "toId": "geirangerfjord", "reason": "category" },
+      { "toId": "iceland", "reason": "category" }
+    ],
+    "categories": ["europe", "coastal", "cliffs"]
+  },
+  {
+    "id": "prague",
+    "name": "Prague",
+    "type": "city",
+    "coordinates": { "lat": 50.0875, "lon": 14.42138889 },
+    "summary": {
+      "text": "Prague is the capital and largest city of the Czech Republic and the historical capital of Bohemia. It stands on the Vltava River and is one of the larger cities in the European Union.",
+      "sources": [
+        { "name": "Wikipedia — Prague", "url": "https://en.wikipedia.org/wiki/Prague", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Role",
+        "value": "Capital and largest city of the Czech Republic, and historical capital of Bohemia.",
+        "sources": [
+          { "name": "Wikipedia — Prague", "url": "https://en.wikipedia.org/wiki/Prague", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "River",
+        "value": "The city is located on the Vltava River.",
+        "sources": [
+          { "name": "Wikipedia — Prague", "url": "https://en.wikipedia.org/wiki/Prague", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "About 1.4 million people, making it the twelfth-largest city in the European Union; the metropolitan area has approximately 2.3 million.",
+        "sources": [
+          { "name": "Wikipedia — Prague", "url": "https://en.wikipedia.org/wiki/Prague", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prague_(6365119737).jpg",
+        "alt": "Panoramic view of Prague from the Charles Bridge east tower, with red-roofed buildings, the river and the castle beyond.",
+        "attribution": "Moyan Brenn, CC BY 2.0, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — Prague (6365119737).jpg", "url": "https://commons.wikimedia.org/wiki/File:Prague_(6365119737).jpg", "license": "CC-BY" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "amsterdam", "reason": "category" },
+      { "toId": "florence", "reason": "category" },
+      { "toId": "paris", "reason": "category" },
+      { "toId": "neuschwanstein-castle", "reason": "geography" },
+      { "toId": "istanbul", "reason": "topic" }
+    ],
+    "categories": ["europe", "city", "capital", "river"]
+  },
+  {
+    "id": "amsterdam",
+    "name": "Amsterdam",
+    "type": "city",
+    "coordinates": { "lat": 52.37277778, "lon": 4.89361111 },
+    "summary": {
+      "text": "Amsterdam is the capital and largest city of the Netherlands, in the province of North Holland. It is nicknamed the \"Venice of the North\" for its many canals.",
+      "sources": [
+        { "name": "Wikipedia — Amsterdam", "url": "https://en.wikipedia.org/wiki/Amsterdam", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Role",
+        "value": "Capital and largest city of the Netherlands.",
+        "sources": [
+          { "name": "Wikipedia — Amsterdam", "url": "https://en.wikipedia.org/wiki/Amsterdam", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "As of 1 January 2026, 941,873 people lived in the city proper and 2,480,394 in the metropolitan area.",
+        "sources": [
+          { "name": "Wikipedia — Amsterdam", "url": "https://en.wikipedia.org/wiki/Amsterdam", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Canals",
+        "value": "Its large number of canals earned it the nickname \"Venice of the North\", and the canals are now a UNESCO World Heritage Site.",
+        "sources": [
+          { "name": "Wikipedia — Amsterdam", "url": "https://en.wikipedia.org/wiki/Amsterdam", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "venice", "reason": "topic" },
+      { "toId": "london", "reason": "geography" },
+      { "toId": "paris", "reason": "geography" },
+      { "toId": "prague", "reason": "category" }
+    ],
+    "categories": ["europe", "city", "capital", "canals", "unesco-world-heritage"]
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "type": "city",
+    "coordinates": { "lat": 43.77138889, "lon": 11.25416667 },
+    "summary": {
+      "text": "Florence is the capital and most populous city of the Italian region of Tuscany. It anchors a larger metropolitan area together with Prato and Pistoia.",
+      "sources": [
+        { "name": "Wikipedia — Florence", "url": "https://en.wikipedia.org/wiki/Florence", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Role",
+        "value": "Capital of Tuscany and of the eponymous metropolitan province.",
+        "sources": [
+          { "name": "Wikipedia — Florence", "url": "https://en.wikipedia.org/wiki/Florence", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "361,625 people as of 2026, the eighth most populous city in Italy.",
+        "sources": [
+          { "name": "Wikipedia — Florence", "url": "https://en.wikipedia.org/wiki/Florence", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Metropolitan area",
+        "value": "The Florence, Prato and Pistoia metropolitan area, constituted in 2000, covers roughly 4,800 square kilometres and is home to 1.5 million people.",
+        "sources": [
+          { "name": "Wikipedia — Florence", "url": "https://en.wikipedia.org/wiki/Florence", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "rome", "reason": "geography" },
+      { "toId": "venice", "reason": "geography" },
+      { "toId": "pompeii", "reason": "topic" },
+      { "toId": "prague", "reason": "category" }
+    ],
+    "categories": ["europe", "city", "capital", "renaissance"]
+  },
+  {
+    "id": "edinburgh",
+    "name": "Edinburgh",
+    "type": "city",
+    "coordinates": { "lat": 55.95333333, "lon": -3.18916667 },
+    "summary": {
+      "text": "Edinburgh is the capital city of Scotland, in the southeast of the country. It lies between the Firth of Forth to the north and the Pentland Hills to the south.",
+      "sources": [
+        { "name": "Wikipedia — Edinburgh", "url": "https://en.wikipedia.org/wiki/Edinburgh", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Role",
+        "value": "Capital of Scotland and one of its 32 council areas.",
+        "sources": [
+          { "name": "Wikipedia — Edinburgh", "url": "https://en.wikipedia.org/wiki/Edinburgh", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Setting",
+        "value": "Bounded to the north by the Firth of Forth and to the south by the Pentland Hills.",
+        "sources": [
+          { "name": "Wikipedia — Edinburgh", "url": "https://en.wikipedia.org/wiki/Edinburgh", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "506,520 in 2020, the second most populous city in Scotland and seventh in the United Kingdom; the wider metropolitan area had 912,490.",
+        "sources": [
+          { "name": "Wikipedia — Edinburgh", "url": "https://en.wikipedia.org/wiki/Edinburgh", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Skyline_of_Edinburgh.jpg",
+        "alt": "Skyline of Edinburgh seen from Calton Hill, with historic stone buildings and spires across the city.",
+        "attribution": "Andrew Colin, CC BY 2.0, via Wikimedia Commons",
+        "sources": [
+          { "name": "Wikimedia Commons — Skyline of Edinburgh.jpg", "url": "https://commons.wikimedia.org/wiki/File:Skyline_of_Edinburgh.jpg", "license": "CC-BY" }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "london", "reason": "geography" },
+      { "toId": "giants-causeway", "reason": "geography" },
+      { "toId": "stonehenge", "reason": "topic" },
+      { "toId": "prague", "reason": "category" }
+    ],
+    "categories": ["europe", "city", "capital"]
+  },
+  {
+    "id": "antarctica",
+    "name": "Antarctica",
+    "type": "natural",
+    "coordinates": { "lat": -90, "lon": 0 },
+    "summary": {
+      "text": "Antarctica is Earth's southernmost and least-populated continent, lying almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean. It contains the geographic South Pole and is mostly covered by a vast ice sheet.",
+      "sources": [
+        { "name": "Wikipedia — Antarctica", "url": "https://en.wikipedia.org/wiki/Antarctica", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Area",
+        "value": "About 14,200,000 square kilometres, making it the fifth-largest continent and roughly 40% larger than Europe.",
+        "sources": [
+          { "name": "Wikipedia — Antarctica", "url": "https://en.wikipedia.org/wiki/Antarctica", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Ice sheet",
+        "value": "Most of the continent is covered by the Antarctic ice sheet, with an average thickness of 1.9 km.",
+        "sources": [
+          { "name": "Wikipedia — Antarctica", "url": "https://en.wikipedia.org/wiki/Antarctica", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Position",
+        "value": "It lies almost entirely south of the Antarctic Circle, is surrounded by the Southern Ocean, and contains the geographic South Pole.",
+        "sources": [
+          { "name": "Wikipedia — Antarctica", "url": "https://en.wikipedia.org/wiki/Antarctica", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [],
+    "trails": [
+      { "toId": "torres-del-paine", "reason": "geography" },
+      { "toId": "iceland", "reason": "category" },
+      { "toId": "mount-everest", "reason": "topic" },
+      { "toId": "lake-baikal", "reason": "topic" }
+    ],
+    "categories": ["antarctica", "ice", "polar", "continent"]
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "new-york-city",
+    "name": "New York City",
+    "type": "city",
+    "coordinates": { "lat": 40.7128, "lon": -74.0061 },
+    "summary": {
+      "text": "New York City is the most populous city in the United States, set at the southern tip of New York State on New York Harbor. It is made up of five boroughs and is a major centre of finance, culture, media and international diplomacy, and the home of the United Nations headquarters.",
+      "sources": [
+        { "name": "Wikipedia — New York City", "url": "https://en.wikipedia.org/wiki/New_York_City", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Boroughs",
+        "value": "Five boroughs: Manhattan, Brooklyn, Queens, the Bronx and Staten Island, each coextensive with its own county.",
+        "sources": [
+          { "name": "Wikipedia — New York City", "url": "https://en.wikipedia.org/wiki/New_York_City", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Population",
+        "value": "An estimated 8,586,038 people as of 2026, spread over 300.46 square miles (778.2 km²).",
+        "sources": [
+          { "name": "Wikipedia — New York City", "url": "https://en.wikipedia.org/wiki/New_York_City", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Early history",
+        "value": "Dutch colonists founded a settlement on Manhattan Island that was named New Amsterdam in 1626 and chartered as a city in 1653. English control began in 1664, and the name New York was permanently adopted in 1674.",
+        "sources": [
+          { "name": "Wikipedia — New York City", "url": "https://en.wikipedia.org/wiki/New_York_City", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Languages",
+        "value": "An estimated 800 languages are spoken in the city, making it the most linguistically diverse city in the world.",
+        "sources": [
+          { "name": "Wikipedia — New York City", "url": "https://en.wikipedia.org/wiki/New_York_City", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
+        "alt": "The Empire State Building lit in green at sunset, rising above the Midtown Manhattan skyline as seen from the Top of the Rock observation deck.",
+        "attribution": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — View of Empire State Building from Rockefeller Center New York City dllu (cropped).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "statue-of-liberty", "reason": "geography" },
+      { "toId": "london", "reason": "category" },
+      { "toId": "tokyo", "reason": "category" },
+      { "toId": "golden-gate-bridge", "reason": "topic" }
+    ],
+    "categories": ["americas", "united-states", "city", "harbor", "coastal"]
+  },
+  {
+    "id": "statue-of-liberty",
+    "name": "Statue of Liberty",
+    "type": "landmark",
+    "coordinates": { "lat": 40.6892, "lon": -74.0444 },
+    "summary": {
+      "text": "The Statue of Liberty is a colossal copper-clad sculpture of a robed and crowned woman on Liberty Island in New York Harbor. It was a gift from the people of France to the United States and has become an icon of freedom and a symbol of welcome to immigrants arriving by sea.",
+      "sources": [
+        { "name": "Wikipedia — Statue of Liberty", "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Dedicated",
+        "value": "Dedicated on October 28, 1886, in a ceremony presided over by President Grover Cleveland.",
+        "sources": [
+          { "name": "Wikipedia — Statue of Liberty", "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Designers",
+        "value": "Designed by French sculptor Frédéric Auguste Bartholdi, with its metal framework built by Gustave Eiffel.",
+        "sources": [
+          { "name": "Wikipedia — Statue of Liberty", "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "The tablet",
+        "value": "The tablet in her left hand is inscribed JULY IV MDCCLXXVI, the date of the Declaration of Independence in Roman numerals.",
+        "sources": [
+          { "name": "Wikipedia — Statue of Liberty", "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Stewardship",
+        "value": "Maintained by the National Park Service since 1933 as part of the Statue of Liberty National Monument. Public access to the torch has been barred since 1916.",
+        "sources": [
+          { "name": "Wikipedia — Statue of Liberty", "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Front_view_of_Statue_of_Liberty_(cropped).jpg",
+        "alt": "The Statue of Liberty seen from the front, with her raised torch, crown and robes above the stone pedestal and base.",
+        "attribution": "AskALotl, CC0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Front view of Statue of Liberty (cropped).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+            "license": "CC0"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "new-york-city", "reason": "geography" },
+      { "toId": "eiffel-tower", "reason": "topic" },
+      { "toId": "golden-gate-bridge", "reason": "category" }
+    ],
+    "categories": ["americas", "united-states", "monument", "harbor", "island"]
+  },
+  {
+    "id": "golden-gate-bridge",
+    "name": "Golden Gate Bridge",
+    "type": "landmark",
+    "coordinates": { "lat": 37.8197, "lon": -122.4786 },
+    "summary": {
+      "text": "The Golden Gate Bridge is a suspension bridge across the one-mile-wide strait that connects San Francisco Bay with the Pacific Ocean. It links San Francisco to Marin County and is one of the most recognized symbols of San Francisco and California.",
+      "sources": [
+        { "name": "Wikipedia — Golden Gate Bridge", "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Opened",
+        "value": "Opened to the public on May 27, 1937.",
+        "sources": [
+          { "name": "Wikipedia — Golden Gate Bridge", "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Main span",
+        "value": "The main span is 4,200 feet (1,280 m) and the total height is 746 feet (227 m).",
+        "sources": [
+          { "name": "Wikipedia — Golden Gate Bridge", "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Record at opening",
+        "value": "In 1937 it was both the longest and the tallest suspension bridge in the world.",
+        "sources": [
+          { "name": "Wikipedia — Golden Gate Bridge", "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Engineering",
+        "value": "Joseph Strauss was chief engineer, with Leon Moisseiff, Irving Morrow and Charles Ellis making significant contributions to the design.",
+        "sources": [
+          { "name": "Wikipedia — Golden Gate Bridge", "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+        "alt": "The Golden Gate Bridge's orange-red towers and suspension cables stretching across the strait, seen from Battery East in San Francisco.",
+        "attribution": "Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Golden Gate Bridge as seen from Battery East.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "statue-of-liberty", "reason": "category" },
+      { "toId": "yosemite", "reason": "geography" },
+      { "toId": "sydney-opera-house", "reason": "category" },
+      { "toId": "eiffel-tower", "reason": "category" }
+    ],
+    "categories": ["americas", "united-states", "bridge", "engineering", "coastal"]
+  },
+  {
+    "id": "yellowstone",
+    "name": "Yellowstone National Park",
+    "type": "natural",
+    "coordinates": { "lat": 44.6, "lon": -110.5 },
+    "summary": {
+      "text": "Yellowstone is a national park in the western United States, lying mainly in northwest Wyoming with small parts in Montana and Idaho. It is known for its wildlife and its many geothermal features, especially the Old Faithful geyser, and is widely regarded as the first national park in the world.",
+      "sources": [
+        { "name": "Wikipedia — Yellowstone National Park", "url": "https://en.wikipedia.org/wiki/Yellowstone_National_Park", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Established",
+        "value": "Created by an act of Congress signed by President Ulysses S. Grant on March 1, 1872.",
+        "sources": [
+          { "name": "Wikipedia — Yellowstone National Park", "url": "https://en.wikipedia.org/wiki/Yellowstone_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Area",
+        "value": "Spans 3,468.4 square miles (8,983 km²).",
+        "sources": [
+          { "name": "Wikipedia — Yellowstone National Park", "url": "https://en.wikipedia.org/wiki/Yellowstone_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Geothermal features",
+        "value": "Well over half of the world's geysers and hydrothermal features are found here, fueled by ongoing volcanism of the Yellowstone Caldera, which has erupted twice with tremendous force in the last two million years.",
+        "sources": [
+          { "name": "Wikipedia — Yellowstone National Park", "url": "https://en.wikipedia.org/wiki/Yellowstone_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Named a UNESCO World Heritage Site in 1978.",
+        "sources": [
+          { "name": "Wikipedia — Yellowstone National Park", "url": "https://en.wikipedia.org/wiki/Yellowstone_National_Park", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Canyon_of_the_Yellowstone_Lower_Falls_(95819p).jpg",
+        "alt": "The Lower Falls of the Yellowstone River plunging into the Grand Canyon of the Yellowstone, framed by steep canyon walls.",
+        "attribution": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Grand Canyon of the Yellowstone Lower Falls (95819p).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_of_the_Yellowstone_Lower_Falls_(95819p).jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "yosemite", "reason": "category" },
+      { "toId": "grand-canyon", "reason": "category" },
+      { "toId": "iceland", "reason": "topic" },
+      { "toId": "banff-national-park", "reason": "geography" }
+    ],
+    "categories": ["americas", "united-states", "national-park", "geothermal", "volcano", "unesco-world-heritage"]
+  },
+  {
+    "id": "yosemite",
+    "name": "Yosemite National Park",
+    "type": "natural",
+    "coordinates": { "lat": 37.85, "lon": -119.5167 },
+    "summary": {
+      "text": "Yosemite is a national park in California's Sierra Nevada, managed by the National Park Service. It is internationally recognized for its granite cliffs, waterfalls, giant sequoia groves, meadows and rich biological diversity.",
+      "sources": [
+        { "name": "Wikipedia — Yosemite National Park", "url": "https://en.wikipedia.org/wiki/Yosemite_National_Park", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Area",
+        "value": "Covers 1,187 square miles (3,070 km²) across four counties.",
+        "sources": [
+          { "name": "Wikipedia — Yosemite National Park", "url": "https://en.wikipedia.org/wiki/Yosemite_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "World Heritage",
+        "value": "Designated a World Heritage Site in 1984.",
+        "sources": [
+          { "name": "Wikipedia — Yosemite National Park", "url": "https://en.wikipedia.org/wiki/Yosemite_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Wilderness",
+        "value": "Almost 95 percent of the park is designated wilderness, and it is one of the largest and least fragmented habitat blocks in the Sierra Nevada.",
+        "sources": [
+          { "name": "Wikipedia — Yosemite National Park", "url": "https://en.wikipedia.org/wiki/Yosemite_National_Park", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Half_Dome_with_Eastern_Yosemite_Valley_(50MP).jpg",
+        "alt": "Half Dome's granite face rising above the forested eastern Yosemite Valley, viewed from Glacier Point.",
+        "attribution": "Thomas Wolf (www.foto-tw.de), CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Half Dome with Eastern Yosemite Valley (50MP).jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Half_Dome_with_Eastern_Yosemite_Valley_(50MP).jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "yellowstone", "reason": "category" },
+      { "toId": "grand-canyon", "reason": "category" },
+      { "toId": "golden-gate-bridge", "reason": "geography" },
+      { "toId": "banff-national-park", "reason": "category" },
+      { "toId": "torres-del-paine", "reason": "topic" }
+    ],
+    "categories": ["americas", "united-states", "national-park", "mountain", "unesco-world-heritage"]
+  },
+  {
+    "id": "niagara-falls",
+    "name": "Niagara Falls",
+    "type": "natural",
+    "coordinates": { "lat": 43.0799, "lon": -79.0747 },
+    "summary": {
+      "text": "Niagara Falls is a group of three waterfalls at the southern end of Niagara Gorge, on the border between Ontario in Canada and New York in the United States. Fed by the Niagara River, which drains Lake Erie into Lake Ontario, the falls have the highest flow rate of any waterfall in North America.",
+      "sources": [
+        { "name": "Wikipedia — Niagara Falls", "url": "https://en.wikipedia.org/wiki/Niagara_Falls", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Three falls",
+        "value": "Horseshoe Falls (also called the Canadian Falls) is the largest; the smaller American Falls and Bridal Veil Falls lie within the United States.",
+        "sources": [
+          { "name": "Wikipedia — Niagara Falls", "url": "https://en.wikipedia.org/wiki/Niagara_Falls", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Flow",
+        "value": "During peak daytime tourist hours, more than 168,000 cubic metres of water goes over the crest every minute.",
+        "sources": [
+          { "name": "Wikipedia — Niagara Falls", "url": "https://en.wikipedia.org/wiki/Niagara_Falls", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Formation",
+        "value": "Formed when glaciers receded at the end of the Wisconsin glaciation, the last ice age, and water from the newly formed Great Lakes carved a path through the Niagara Escarpment.",
+        "sources": [
+          { "name": "Wikipedia — Niagara Falls", "url": "https://en.wikipedia.org/wiki/Niagara_Falls", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "Lies 27 kilometres (17 miles) northwest of Buffalo, New York, and 69 kilometres (43 miles) southeast of Toronto.",
+        "sources": [
+          { "name": "Wikipedia — Niagara Falls", "url": "https://en.wikipedia.org/wiki/Niagara_Falls", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/3Falls_Niagara.jpg",
+        "alt": "The American, Bridal Veil and Horseshoe Falls seen together from the Canadian side under a partly cloudy sky.",
+        "attribution": "Saffron Blaze, CC BY-SA 3.0, via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — 3Falls Niagara.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg",
+            "license": "CC-BY-SA"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "victoria-falls", "reason": "category" },
+      { "toId": "iguazu-falls", "reason": "category" },
+      { "toId": "new-york-city", "reason": "geography" },
+      { "toId": "banff-national-park", "reason": "geography" }
+    ],
+    "categories": ["americas", "united-states", "canada", "waterfall", "river"]
+  },
+  {
+    "id": "banff-national-park",
+    "name": "Banff National Park",
+    "type": "natural",
+    "coordinates": { "lat": 51.5, "lon": -116 },
+    "summary": {
+      "text": "Banff National Park lies in the Rocky Mountains of Alberta, Canada, and is the country's first national park. Its mountainous terrain includes glaciers and ice fields, dense coniferous forest and alpine landscapes.",
+      "sources": [
+        { "name": "Wikipedia — Banff National Park", "url": "https://en.wikipedia.org/wiki/Banff_National_Park", "license": "CC-BY-SA" }
+      ]
+    },
+    "facts": [
+      {
+        "label": "Established",
+        "value": "Founded in 1885 as Rocky Mountains Park, Canada's first national park.",
+        "sources": [
+          { "name": "Wikipedia — Banff National Park", "url": "https://en.wikipedia.org/wiki/Banff_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Area",
+        "value": "Encompasses 6,641 square kilometres (2,564 sq mi) of mountainous terrain.",
+        "sources": [
+          { "name": "Wikipedia — Banff National Park", "url": "https://en.wikipedia.org/wiki/Banff_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Location",
+        "value": "Located 110–180 kilometres (68–112 miles) west of Calgary, with the town of Banff in the Bow River valley as its main commercial centre.",
+        "sources": [
+          { "name": "Wikipedia — Banff National Park", "url": "https://en.wikipedia.org/wiki/Banff_National_Park", "license": "CC-BY-SA" }
+        ]
+      },
+      {
+        "label": "Neighbours",
+        "value": "Bordered by Jasper National Park to the north, and by Yoho and Kootenay National Parks to the west in British Columbia.",
+        "sources": [
+          { "name": "Wikipedia — Banff National Park", "url": "https://en.wikipedia.org/wiki/Banff_National_Park", "license": "CC-BY-SA" }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "kind": "image",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Moraine_Lake_17092005.jpg",
+        "alt": "Moraine Lake in the Valley of the Ten Peaks, with a ring of snow-dusted mountains reflected in the still water and conifer forest along the shore.",
+        "attribution": "Gorgo (public domain), via Wikimedia Commons",
+        "sources": [
+          {
+            "name": "Wikimedia Commons — Moraine Lake 17092005.jpg",
+            "url": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg",
+            "license": "public-domain"
+          }
+        ]
+      }
+    ],
+    "trails": [
+      { "toId": "yosemite", "reason": "category" },
+      { "toId": "yellowstone", "reason": "geography" },
+      { "toId": "matterhorn", "reason": "category" },
+      { "toId": "torres-del-paine", "reason": "topic" }
+    ],
+    "categories": ["americas", "canada", "national-park", "mountain", "glacier"]
+  }
+]

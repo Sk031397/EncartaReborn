@@ -1,0 +1,50 @@
+.boot {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sp-4);
+  text-align: center;
+  padding: var(--sp-6);
+  background:
+    radial-gradient(
+      ellipse at 50% 30%,
+      rgba(127, 227, 210, 0.08),
+      transparent 60%
+    ),
+    var(--c-bg);
+}
+
+.boot__disc {
+  margin-bottom: var(--sp-3);
+}
+
+.boot__title {
+  font-family: var(--font-display);
+  font-size: var(--fs-900);
+  margin: 0;
+  letter-spacing: 0.01em;
+}
+.boot__title:focus-visible {
+  outline: 3px solid var(--c-focus);
+  outline-offset: 6px;
+}
+
+.boot__tagline {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--fs-500);
+  color: var(--c-amber);
+  margin: 0;
+}
+
+.boot__hint {
+  max-width: 40ch;
+  color: var(--c-text-dim);
+  margin: 0;
+}
+
+.boot__action {
+  margin-top: var(--sp-4);
+}

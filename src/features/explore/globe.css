@@ -1,0 +1,72 @@
+.globe {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+}
+
+.globe__viewport {
+  position: relative;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background:
+    radial-gradient(
+      ellipse at 50% 45%,
+      rgba(127, 227, 210, 0.07),
+      transparent 62%
+    ),
+    #070d1a;
+}
+
+.globe__stage {
+  position: relative;
+  width: 100%;
+  height: min(62vh, 560px);
+  min-height: 320px;
+}
+
+.globe__canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  outline: none;
+}
+
+/* Place name that follows a hovered marker. Decorative: every place is also in
+   the plain list, so it is hidden from assistive tech. */
+.globe__tip {
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  white-space: nowrap;
+  padding: var(--sp-1) var(--sp-3);
+  font-size: var(--fs-300);
+  font-weight: 700;
+  color: var(--c-amber-ink);
+  background: var(--c-amber);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+}
+.globe__tip[hidden] {
+  display: none;
+}
+
+.globe__controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--sp-2);
+}
+.globe__btn {
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+  padding: var(--sp-2) var(--sp-3);
+  font-size: var(--fs-500);
+}
+
+.globe__hint {
+  margin: 0;
+  text-align: center;
+  font-size: var(--fs-300);
+  color: var(--c-text-dim);
+}

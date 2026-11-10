@@ -1,0 +1,141 @@
+/* Retro UI primitives. Hand-crafted (no UI framework) per tech.md. */
+
+/* ---- Skip link (a11y) ---- */
+.skip-link {
+  position: absolute;
+  left: var(--sp-2);
+  top: -3rem;
+  z-index: 100;
+  background: var(--c-amber);
+  color: var(--c-amber-ink);
+  padding: var(--sp-2) var(--sp-3);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-body);
+  font-weight: 700;
+  text-decoration: none;
+  transition: top var(--dur) var(--ease);
+}
+.skip-link:focus {
+  top: var(--sp-2);
+}
+
+/* ---- Global focus-visible ring ---- */
+:where(a, button, [tabindex], input, textarea):focus-visible {
+  outline: 3px solid var(--c-focus);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* ---- Panel ---- */
+.panel {
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: var(--sp-5);
+}
+.panel--raised {
+  background: var(--c-surface-2);
+}
+.panel__title {
+  font-family: var(--font-display);
+  font-size: var(--fs-700);
+  line-height: var(--lh-tight);
+  margin: 0 0 var(--sp-3);
+  color: var(--c-text);
+}
+
+/* ---- Button ---- */
+.btn {
+  font-family: var(--font-body);
+  font-size: var(--fs-400);
+  font-weight: 700;
+  line-height: 1;
+  padding: var(--sp-3) var(--sp-5);
+  border-radius: var(--radius-sm);
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition:
+    transform var(--dur) var(--ease),
+    filter var(--dur) var(--ease);
+}
+.btn:active {
+  transform: translateY(1px);
+}
+.btn--primary {
+  background: var(--c-amber);
+  color: var(--c-amber-ink);
+}
+.btn--primary:hover {
+  filter: brightness(1.06);
+}
+.btn--ghost {
+  background: transparent;
+  color: var(--c-text);
+  border-color: var(--c-border);
+}
+.btn--ghost:hover {
+  background: var(--c-surface-2);
+}
+
+/* ---- Rail (bounded horizontal list — NOT an infinite feed) ---- */
+.rail {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-3);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.rail__item {
+  flex: 1 1 14rem;
+  min-width: 12rem;
+}
+
+/* ---- Disc loader (the "spinning CD-ROM" motif) ---- */
+.disc {
+  --disc-size: 120px;
+  width: var(--disc-size);
+  height: var(--disc-size);
+  border-radius: 50%;
+  background:
+    radial-gradient(
+      circle at center,
+      var(--c-bg) 0 18%,
+      var(--c-surface-2) 18% 22%,
+      transparent 22%
+    ),
+    conic-gradient(
+      from 0deg,
+      #9fb4d8,
+      #7fe3d2,
+      #ffcf7a,
+      #d79ad0,
+      #9fb4d8
+    );
+  box-shadow: var(--shadow);
+  animation: disc-spin 2.4s linear infinite;
+}
+@keyframes disc-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .disc {
+    animation: none;
+  }
+}
+
+/* ---- Visually-hidden (for screen-reader-only labels) ---- */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

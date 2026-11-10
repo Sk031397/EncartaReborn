@@ -1,0 +1,41 @@
+/* Global base styles + retro design system entry point. */
+@import './tokens.css';
+@import './primitives.css';
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--fs-400);
+  line-height: var(--lh-body);
+  background: var(--c-bg);
+  color: var(--c-text);
+}
+
+a {
+  color: var(--c-teal);
+}
+
+/* Respect users who prefer reduced motion (steering: product.md law 7). */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

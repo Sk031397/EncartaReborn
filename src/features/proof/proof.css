@@ -1,0 +1,62 @@
+.proof {
+  max-width: var(--measure);
+  margin: 0 auto;
+}
+.proof__lead {
+  color: var(--c-text-dim);
+  margin: 0 0 var(--sp-5);
+}
+.proof__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--sp-3);
+}
+.proof__item {
+  display: flex;
+  gap: var(--sp-4);
+  padding: var(--sp-4);
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--radius);
+}
+.proof__mark {
+  flex: 0 0 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+}
+.proof__item--pass .proof__mark {
+  background: var(--c-teal);
+  color: var(--c-teal-ink);
+}
+.proof__item--fail .proof__mark {
+  background: var(--c-amber);
+  color: var(--c-amber-ink);
+}
+.proof__title {
+  font-family: var(--font-display);
+  font-size: var(--fs-500);
+  margin: 0 0 var(--sp-1);
+}
+.proof__detail {
+  color: var(--c-text-dim);
+  overflow-wrap: anywhere;
+}
+.proof__detail strong {
+  color: var(--c-text);
+}
+.proof__actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--sp-4);
+  margin-top: var(--sp-5);
+}
+.proof__time {
+  font-size: var(--fs-300);
+  color: var(--c-text-dim);
+}

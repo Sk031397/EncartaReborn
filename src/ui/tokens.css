@@ -1,0 +1,63 @@
+/**
+ * Design tokens for Encarta Reborn — a retro CD-ROM encyclopedia reimagined.
+ *
+ * The palette is a calm, late-90s "multimedia" dark slate with warm amber and
+ * teal accents. Contrast pairs are chosen for WCAG 2.1 AA: body text and all
+ * interactive text sit at >= 4.5:1 against their backgrounds (steering: tech.md,
+ * product.md law 7 "calm by default"). A contrast test guards these values.
+ */
+:root {
+  /* Surfaces (dark slate "disc tray" world) */
+  --c-bg: #0e1626; /* app background */
+  --c-surface: #17233b; /* panels */
+  --c-surface-2: #1f3052; /* raised panels / rails */
+  --c-border: #33466e; /* hairlines */
+
+  /* Text (on --c-bg / --c-surface) */
+  --c-text: #eef3fb; /* ~15.8:1 on --c-bg */
+  --c-text-dim: #b9c6de; /* ~9.1:1 on --c-bg — still AA for body */
+
+  /* Accents */
+  --c-amber: #ffcf7a; /* warm highlight; ~11:1 on --c-bg */
+  --c-amber-ink: #3a2a08; /* text on amber buttons; ~9:1 on amber */
+  --c-teal: #7fe3d2; /* links/trails; ~10.4:1 on --c-bg */
+  --c-teal-ink: #06231e; /* text on teal; high contrast */
+
+  /* Focus ring — must be clearly visible (a11y) */
+  --c-focus: #ffd98a;
+
+  /* Type scale (fluid-ish, retro serif display + clean sans body) */
+  --font-display: 'Georgia', 'Times New Roman', serif;
+  --font-body: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'Courier New', ui-monospace, monospace;
+
+  --fs-900: 2.25rem; /* display */
+  --fs-700: 1.5rem; /* section titles */
+  --fs-500: 1.125rem; /* subtitles */
+  --fs-400: 1rem; /* body */
+  --fs-300: 0.875rem; /* meta / citations */
+
+  --lh-tight: 1.2;
+  --lh-body: 1.6;
+
+  /* Spacing scale */
+  --sp-1: 0.25rem;
+  --sp-2: 0.5rem;
+  --sp-3: 0.75rem;
+  --sp-4: 1rem;
+  --sp-5: 1.5rem;
+  --sp-6: 2rem;
+  --sp-7: 3rem;
+
+  /* Radius + elevation (soft, calm) */
+  --radius: 10px;
+  --radius-sm: 6px;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+
+  /* Motion — gentle; disabled under prefers-reduced-motion */
+  --dur: 240ms;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+
+  /* Layout */
+  --measure: 68ch; /* readable article width */
+}
