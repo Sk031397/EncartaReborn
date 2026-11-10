@@ -1,0 +1,16 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Source Citation Guard (blocking)",
+      "trigger": "PreToolUse",
+      "description": "Blocks any write that would leave a place summary, fact, or image without a valid source (exit 2).",
+      "matcher": "fs_write|str_replace",
+      "action": {
+        "type": "command",
+        "command": "node scripts/guard.mjs",
+        "timeout": 20
+      }
+    }
+  ]
+}

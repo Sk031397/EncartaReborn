@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Accessibility + Lint on Save",
+      "trigger": "PostFileSave",
+      "matcher": "\\.(ts|tsx|jsx|css)$",
+      "action": {
+        "type": "command",
+        "command": "npm run lint --silent",
+        "timeout": 120
+      }
+    }
+  ]
+}
