@@ -64,6 +64,3 @@ src/
   ui/                # retro design system (tokens, primitives, sound)
   lib/               # graph (trails), on-device storage
 ```
-# EncartaReborn
-# EncartaReborn
-# EncartaReborn
